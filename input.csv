@@ -1,0 +1,456 @@
+cancers of unknown primary,Neoplasm malignant,8000/3,unknown,C809,,
+Carcinoma NOS,Carcinoma NOS,8010/3,mouth NOS,C06,C4833,Oral Cavity Squamous Cell Carcinoma
+esophageal cancer,Carcinoma NOS,8010/3,esophagus,C15,C3513,Esophageal Carcinoma 
+Colorectal adenocarcinoma [Sigmoid Colon],Carcinoma NOS,8010/3,sigmoid incl. rectosigmoid junction,C187,C7421,Rectosigmoid Carcinoma
+Colorectal cancer,Carcinoma NOS,8010/3,large intestine excl. rectum and rectosigmoid junction,C189,C4910,Colon Carcinoma 
+lung carcinoma,Carcinoma NOS,8010/3,lung and bronchus,C34,C4878,Lung Carcinoma
+cancer [Omentum],Carcinoma NOS,8010/3,Unknown,C809,C3810,Connective and Soft Tissue Neoplasm
+breast Carcinosarcoma,Carcinoma NOS,8010/3,breast,C50,C4872,Breast Carcinoma
+Ovarian carcinoma,carcinoma NOS,8010/3,ovary,C569,C4908,Ovarian Carcinoma
+Fallopian tube carcinoma,Carcinoma NOS,8010/3,fallopian tube,C570,C3867,Fallopian Tube Carcinoma
+Carcinoma NOS,Carcinoma NOS,8010/3,kidney,C649,C9384,Kidney Carcinoma
+Carcinoma NOS,Carcinoma NOS,8010/3,urinary bladder,C670,C4912,Bladder Carcinoma
+thyroid carcinoma,Carcinoma NOS,8010/3,thyroid gland,C739,C46008,Thyroid Gland Squamous Cell Carcinoma
+Large cell carcinoma,Large cell carcinoma NOS,8012/3,lung and bronchus,C34,C4450,Large Cell Lung Carcinoma
+uterine corpus endometrioid carcinoma,Carcinoma undifferentiated NOS,8020/3,corpus uteri,C54,C3692,Undifferentiated Carcinoma
+Ovarian Carcinoma,Carcinoma undifferentiated NOS,8020/3,ovary,C569,C3692,Undifferentiated Carcinoma
+anaplastic carcinoma [palatine tonsil],Carcinoma anaplastic NOS,8021/3,tonsil,C09,C3692,Undifferentiated Carcinoma
+breast carcinoma [anaplastic carcinoma cell line SUM185PE],Carcinoma anaplastic type NOS,8021/3,breast,C50,C5161,Pleomorphic Breast Carcinoma
+anaplastic thyroid carcinoma,Carcinoma anaplastic type NOS,8021/3,thyroid gland,C739,C3878,Thyroid Gland Undifferentiated (Anaplastic) Carcinoma
+Giant cell carcinoma,Giant cell carcinoma,8031/3,lung and bronchus,C34,C4452,Lung Giant Cell Carcinoma
+Sarcomatoid carcinoma,Sarcomatoid carcinoma,8033/3,connective and soft tissue NOS,C499,C27004,Sarcomatoid Carcinoma
+small cell lung cancer,Small cell carcinoma NOS,8041/3,lung and bronchus,C34,C3915,Small Cell Carcinoma
+Non-Small Cell Lung Cancer,Non-small cell carcinoma,8046/3,lung and bronchus,C34,C2926,Non-Small Cell Lung Carcinoma
+flat ductal intraepithelial neoplasia,Papilloma NOS,8050/0,lung and bronchus,C34,C7440,Papilloma
+Pre-malignant keratinocyte [oral cell line],Premalignant squamous epithelium NOS,8070/1,mouth NOS,C06,C4833,Oral Cavity Squamous Cell Carcinoma
+oral leukoplakia,Premalignant squamous epithelium NOS,8070/1,mouth NOS,C06,C4833,Oral Cavity Squamous Cell Carcinoma
+Vulvar hyperplasia,Premalignant squamous epithelium NOS,8070/1,vulva nos,C519,C4052,Vulvar Squamous Cell Carcinoma
+cervical intraepithelial neoplasia [grade 1],Premalignant squamous epithelium NOS,8070/1,cervix uteri,C53,C7347,Cervical Squamous Cell Carcinoma In Situ
+oral dysplasia,Premalignant squamous epithelium NOS,8070/1,mouth NOS,C06,C4833,Oral Cavity Squamous Cell Carcinoma
+Esophageal Dysplasia,Premalignant squamous epithelium NOS,8070/1,esophagus,C15,C4024,Esophageal Squamous Cell Carcinoma
+premalignant endobronchial cancer,Premalignant squamous epithelium NOS,8070/1,lung and bronchus,C34,C126401,Bronchial Epithelial Dysplasia
+cervix dysplasia [high-grade],Premalignant squamous epithelium NOS,8070/1,cervix uteri,C53,C7347,Cervical Squamous Cell Carcinoma In Situ
+squamous cell lung carcinoma,Squamous cell carcinoma in situ NOS,8070/2,lung and bronchus,C34,C27093,Stage 0 Squamous Cell Carcinoma
+squamous cell carcinoma [tongue cell line],Squamous cell carcinoma NOS,8070/3,tongue,C01,C4648,Tongue Squamous Cell Carcinoma 
+squamous cell carcinoma [oral cell line],Squamous cell carcinoma NOS,8070/3,floor of mouth,C04,C4041,Floor of Mouth Squamous Cell Carcinoma
+squamous cell carcinoma [oral],Squamous cell carcinoma NOS,8070/3,mouth NOS,C06,C4833,Oral Cavity Squamous Cell Carcinoma
+carcinoma [head and neck tonsil],Squamous cell carcinoma NOS,8070/3,tonsil,C09,C2929,Squamous Cell Carcinoma
+Oral cavity squamous cell carcinoma,Squamous cell carcinoma NOS,8070/3,Oropharynx,C10,C8181,Oropharyngeal Squamous Cell Carcinoma
+head and neck carcinoma,Squamous cell carcinoma NOS,8070/3,nasopharynx,C11,C7992,Nasopharyngeal Keratinizing Squamous Cell Carcinoma
+head and neck squamous cell carcinoma [Hypopharynx],Squamous cell carcinoma NOS,8070/3,hypopharynx,C13,C4043,Hypopharyngeal Squamous Cell Carcinoma
+head and neck squamous cell carcinoma,Squamous cell carcinoma NOS,8070/3,pharynx NOS,C140,C102872,Pharyngeal Squamous Cell Carcinoma
+esophageal squamous cell carcinoma,Squamous cell carcinoma NOS,8070/3,esophagus,C15,C4024,Esophageal Squamous Cell Carcinoma
+head and neck squamous cell carcinoma [Larynx],Squamous cell carcinoma NOS,8070/3,larynx,C32,C4044,Laryngeal Squamous Cell Carcinoma
+squamous cell lung carcinoma,Squamous cell carcinoma NOS,8070/3,lung and bronchus,C34,C3493,Squamous Cell Lung Carcinoma
+Cutaneous squamous cell carcinoma,Squamous cell carcinoma NOS,8070/3,skin,C44,C4819,Skin Squamous Cell Carcinoma 
+Squamous cell carcinoma,Squamous cell carcinoma NOS,8070/3,vulva nos,C519,C4052,Vulvar Squamous Cell Carcinoma
+carcinoma [cervix uteri],Squamous cell carcinoma NOS,8070/3,cervix uteri,C53,C4028,"Cervical Squamous Cell Carcinoma, Not Otherwise Specified"
+Actinic keratosis,Squamous cell keratosis NOS,8071/0,skin,C44,C3148,Actinic (Solar) Keratosis
+Nasopharyngeal carcinoma,Squamous cell carcinoma large cell nonkeratinizing NOS,8072/3,nasopharynx,C11,C7992,Nasopharyngeal Keratinizing Squamous Cell Carcinoma
+Cervical intraepithelial neoplasia,Squamous intraepithelial neoplasia grade III,8077/2,cervix uteri,C53,C89476,Grade III Vaginal Intraepithelial Neoplasia
+transitional cell carcinoma [ureter],Transitional cell carcinoma NOS,8120/3,renal pelvis ureter,C65,C7355,Renal Pelvis Urothelial Carcinoma
+Urinary bladder carcinoma,Transitional cell carcinoma NOS,8120/3,urinary bladder,C670,C39851,Bladder Urothelial Carcinoma
+Urothelial carcinoma,Transitional cell carcinoma,8120/3,other urinary organs,C680,C9106,Urethral Carcinoma
+Urothelial papilloma NOS,Papillary transitional cell neoplasm of low malignant potential,8130/1,urinary bladder,C670,C27884,Bladder Papillary Urothelial Neoplasm of Low Malignant Potential
+Urothelial papilloma NOS,Urothelial papilloma NOS,8130/1,other urinary organs,C680,C3842,Urothelial Papilloma
+bladder urothelial carcinoma,Papillary transitional cell carcinoma,8130/3,urinary bladder,C670,C4122,Non-Invasive Papillary Transitional Cell Carcinoma
+adenoma [stomach tubular],adenoma NOS,8140/0,stomach,C16,C4004,Gastric Adenocarcinoma
+Small bowel juvenile polyps,Adenoma NOS,8140/0,small intestine,C17,C7888,Small Intestinal Adenocarcinoma
+colorectal polypoid adenoma,Adenoma NOS,8140/0,large intestine excl. rectum and rectosigmoid junction,C189,C4349,Colon Adenocarcinoma
+rectal adenoma,Adenoma NOS,8140/0,rectum,C20,C9383,Rectal Adenocarcinoma
+Parathyroid adenoma,Adenoma NOS,8140/0,thyroid gland,C739,C27380,Thyroid Gland Adenocarcinoma
+colon mucosa [low grade dysplastic tumor; myhmut],atypical adenoma,8140/1,large intestine excl. rectum and rectosigmoid junction,C189,C7559,Atypical Adenoma
+gastric carcinoma in situ,Adenocarcinoma in situ NOS,8140/2,stomach,C16,C4004,Gastric Adenocarcinoma
+esophageal adenocarcinoma,adenocarcinoma NOS,8140/3,esophagus,C15,C4025,Esophageal Adenocarcinoma
+gastric adenocarcinoma,Adenocarcinoma NOS,8140/3,stomach,C16,C4004,Gastric Adenocarcinoma
+adenocarcinoma [small intestine],Adenocarcinoma NOS,8140/3,small intestine,C17,C7888,Small Intestinal Adenocarcinoma
+Colorectal adenocarcinoma [Cecum],Adenocarcinoma NOS,8140/3,cecum,C180,C5543,Cecum Adenocarcinoma
+rectum adenocarcinoma [Sigmoid Colon],Adenocarcinoma NOS,8140/3,sigmoid incl. rectosigmoid junction,C187,C5105,Rectosigmoid Adenocarcinoma
+Colorectal adenocarcinoma,Adenocarcinoma NOS,8140/3,large intestine excl. rectum and rectosigmoid junction,C189,C4349,Colon Adenocarcinoma
+rectum adenocarcinoma,Adenocarcinoma NOS,8140/3,rectum,C20,C9383,Rectal Adenocarcinoma
+Adenocarcinoma NOS,Adenocarcinoma NOS,8140/3,gallbladder,C23,C9166,Gallbladder Adenocarcinoma
+Pancreas adenocarcinoma,Adenocarcinoma NOS,8140/3,pancreas,C25,C8294,Pancreatic Adenocarcinoma 
+lung adenocarcinoma,Adenocarcinoma NOS,8140/3,lung and bronchus,C34,C3512,Lung Adenocarcinoma
+cervix carcinoma [adenocarcinoma],Adenocarcinoma NOS,8140/3,cervix uteri,C53,C4029,Cervical Adenocarcinoma 
+uterine corpus endometrioid carcinoma,Adenocarcinoma NOS,8140/3,corpus uteri,C54,C2852,Adenocarcinoma
+uterus adenocarcinoma,Adenocarcinoma NOS,8140/3,uterus nos,C559,C2852,Adenocarcinoma
+Ovarian carcinoma,Adenocarcinoma NOS,8140/3,ovary,C569,C7700,Ovarian Adenocarcinoma 
+prostate adenocarcinoma,Adenocarcinoma NOS,8140/3,prostate gland,C619,C2919,Prostate Adenocarcinoma
+Renal cell carcinoma-very poorly differentiated,Adenocarcinoma NOS,8140/3,kidney,C649,C9384,Kidney Carcinoma
+Adenocarcinoma NOS,Adenocarcinoma NOS,8140/3,thyroid gland,C739,C27380,Thyroid Gland Adenocarcinoma
+adenocarcinoma [adrenal gland cell line],Adenocarcinoma NOS,8140/3,adrenal glands,C74,C2852,Adenocarcinoma
+Colorectal adenocarcinoma [mucinous Ascending Colon],Adenocarcinoma NOS,8140/3,unknown,C809,C2852,Adenocarcinoma
+gastric adenocarcinoma [Antrum/Distal],Adenocarcinoma intestinal type,8144/3,stomach,C16,C9157,Gastric Intestinal Type Adenocarcinoma
+colorectal carcinoma [right well differentiated lymph node metastasis],Adenocarcinoma intestinal type,8144/3,large intestine excl. rectum and rectosigmoid junction,C189,C4349,Colon Adenocarcinoma
+colorectal carcinoma [rectum well differentiated lymph node metastasis],Adenocarcinoma intestinal type,8144/3,rectum,C20,C9383,Rectal Adenocarcinoma
+gastric adenocarcinoma [Antrum/Distal],Carcinoma diffuse type,8145/3,stomach,C16,C9159,Diffuse Gastric Adenocarcinoma
+prostate adenocarcinoma,prostatic intraepithelial neoplasia grade III,8148/2,prostate gland,C619,,
+islet cell carcinoma,Islet cell carcinoma,8150/3,pancreas,C25,C3770,Pancreatic Neuroendocrine Carcinoma
+Cholangiocarcinoma,Cholangiocarcinoma,8160/3,intrahepatic bile ducts,C221,C35417,Intrahepatic Cholangiocarcinoma
+Cholangiocarcinoma,Cholangiocarcinoma,8160/3,extrahepatic and unspecified bile ducts,C24,C4436,Cholangiocarcinoma 
+Bile duct cystadenocarcinoma,Bile duct cystadenocarcinoma,8161/3,extrahepatic and unspecified bile ducts,C24,"C4130	",Bile Duct Cystadenocarcinoma
+Hepatocellular adenoma,Hepatocellular adenoma NOS,8170/0,liver,C22,C3758,Hepatocellular Adenoma
+Hepatocellular carcinoma,Hepatocellular carcinoma NOS,8170/3,liver,C22,C3099,Hepatocellular Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,parotid gland,C07,C5937,Parotid Gland Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,salivary gland NOS,C089,C8026,Salivary Gland Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,Oropharynx,C10,C2970,Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,nasopharynx,C11,C2970,Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,pancreas,C25,C2970,Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,middle and inner ear,C301,C2970,Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,larynx,C32,C2970,Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,trachea,C33,C6051,Tracheal Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,bone NOS,C419,C2970,Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,kidney,C649,C2970,Adenoid Cystic Carcinoma
+Adenoid cystic carcinoma,Adenoid cystic carcinoma,8200/3,orbit and lacrimal gland excl. retina eye nos,C690,C2970,Adenoid Cystic Carcinoma
+Ductal carcinoma,Ductal carcinoma cribriform type [C50._],8201/3,breast,C50,C3680,Cribriform Carcinoma
+gastric adenocarcinoma [tubular],Tubular adenocarcinoma,8211/3,stomach,C16,C65192,Gastric Tubular Adenocarcinoma
+Gastrointestinal carcinoid,carcinoid tumor nos,8240/3,stomach,C16,C7709,Digestive System Neuroendocrine Tumor G1
+Bronchial carcinoid,carcinoid tumor nos,8240/3,lung and bronchus,C34,C2915,Carcinoid Tumor
+Neuroendocrine carcinoma,Neuroendocrine carcinoma,8246/3,Nervous system NOS,C729,C3773,Neuroendocrine Carcinoma
+merkel cell carcinoma [lip],Merkel cell carcinoma,8247/3,lip,C000,C9231,Merkel Cell Carcinoma
+Merkel cell carcinoma,Merkel cell carcinoma,8247/3,connective and soft tissue NOS,C499,C9231,Merkel Cell Carcinoma
+Bronchiolo-alveolar adenocarcinoma,Bronchiolo-alveolar adenocarcinoma,8250/3,lung and bronchus,C34,C2923,Bronchioloalveolar Carcinoma 
+Bronchiolo-alveolar carcinoma indeterminate type [C34._],Bronchiolo-alveolar carcinoma indeterminate type [C34._],8254/3,lung and bronchus,C34,C2923,Bronchioloalveolar Carcinoma 
+gastric adenocarcinoma [Antrum/Distal],Papillary adenocarcinoma NOS,8260/3,stomach,C16,C2853,Papillary Adenocarcinoma
+papillary adenocarcinoma,Papillary adenocarcinoma NOS,8260/3,lung and bronchus,C34,C5650,Papillary Lung Adenocarcinoma
+lung adenocarcinoma [R-Upper],Papillary adenocarcinoma NOS,8260/3,kidney,C649,C6975,Papillary Renal Cell Carcinoma
+papillary thyroid carcinoma,Papillary adenocarcinoma NOS,8260/3,thyroid gland,C739,C4035,Thyroid Gland Papillary Carcinoma
+non-invasive prolactin pituitary tumour,Pituitary carcinoma NOS,8272/3,pituitary gland,C751,C4536,Pituitary Gland Carcinoma
+renal oncocytoma,Oncocytoma,8290/0,kidney,C649,C4526,Kidney Oncocytoma
+Renal oncocytoma,oncocytoma,8290/3,kidney,C649,C4526,Kidney Oncocytoma
+lung adenocarcinoma [L-Lower],Clear cell adenocarcinoma NOS,8310/3,lung and bronchus,C34,C45516,Lung Clear Cell Adenocarcinoma
+clear cell renal carcinoma,Clear cell adenocarcinoma NOS,8310/3,kidney,C649,C4033,Clear Cell Renal Cell Carcinoma
+renal cell carcinoma,Renal cell carcinoma,8312/3,kidney,C649,C4033,Clear Cell Renal Cell Carcinoma
+Chromophobe Renal carcinoma,Renal cell carcinoma chromophobe,8317/3,kidney,C649,C4146,Chromophobe Renal Cell Carcinoma
+Renal Spindle cell carcinoma,Renal cell carcinoma spindle cell [C64.9],8318/3,kidney,C649,C39807,Mucinous Tubular and Spindle Cell Carcinoma of the Kidney
+Follicular adenoma NOS,Follicular adenoma NOS,8330/0,thyroid gland,C739,C3502,Thyroid Gland Follicular Adenoma
+Fetal adenoma,Fetal adenoma,8333/0,lung and bronchus,C34,C45509,Fetal Lung Adenocarcinoma 
+Fetal adenocarcinoma,Fetal adenocarcinoma,8333/3,lung and bronchus,C34,C45509,Fetal Lung Adenocarcinoma
+Follicular carcinoma,Follicular carcinoma,8335/3,thyroid gland,C739,C8054,Thyroid Gland Follicular Carcinoma 
+adrenocortical adenoma,Adrenal cortical adenoma,8370/0,adrenal cortex,C740,C9003,Adrenal Cortex Adenoma
+adrenocortical carcinoma,Adrenal cortical carcinoma,8370/3,adrenal cortex,C740,C9325,Adrenal Cortex Carcinoma
+uterine corpus endometrioid carcinoma,Endometrioid adenocarcinoma NOS,8380/3,corpus uteri,C54,C6287,Endometrial Endometrioid Adenocarcinoma
+endometrial carcinoma,Endometrioid carcinoma NOS,8380/3,uterus NOS,C559,C6287,Endometrial Endometrioid Adenocarcinoma
+ovarian carcinoma [endometroid],Endometrioid carcinoma NOS,8380/3,ovary,C569,C3769,Ovarian Endometrioid Adenocarcinoma
+uterine corpus endometrioid carcinoma,Endometrioid adenocarcinoma secretory variant,8382/3,corpus uteri,C54,C27839,Uterine Corpus Endometrioid Adenocarcinoma Secretory Variant
+Endometrioid adenocarcinoma secretory variant,Endometrioid adenocarcinoma secretory variant,8382/3,uterus nos,C559,C7359,Endometrial Adenocarcinoma 
+breast ductal adenocarcinoma [Right Upper Outer Quadrant],Apocrine adenocarcinoma,8401/3,breast,C50,C40383,Breast Apocrine Adenoma
+Endometrioid carcinoma NOS,Mucoepidermoid carcinoma,8430/3,lung and bronchus,C34,C45544,Lung mucoepidermoid carcinoma
+Mucoepidermoid carcinoma,Mucoepidermoid carcinoma,8430/3,salivary gland NOS,C089,C5953,Minor Salivary Gland Mucoepidermoid Carcinoma
+Cystoadenocarcinoma,Cystadenocarcinoma NOS,8440/3,ovary,C569,C5228,Ovarian Cystadenocarcinoma
+uterine corpus endometrioid carcinoma,Serous cystadenocarcinoma NOS,8441/3,corpus uteri,C54,C3778,Serous Cystadenocarcinoma
+Fallopian tube tumor,Serous cystadenocarcinoma NOS,8441/3,fallopian tube,C540,C3778,Serous Cystadenocarcinoma
+Ovarian Carcinoma,Serous cystadenocarcinoma NOS,8441/3,ovary,C569,C7978,Ovarian Serous Cystadenocarcinoma
+Serous ovarian carcinoma [high grade],Serous adenocarcinoma NOS,8441/3,ovary,C569,C7550,Ovarian Serous Adenocarcinoma
+Serous Fallopian tube carcinoma,Serous adenocarcinoma NOS,8441/3,fallopian tube,C570,C40101,Serous Adenocarcinoma
+intraductal papillary mucinous neoplasms of the pancreas [Moderate ],Intraductal papillary-mucinous tumor with moderate dysplasia [C25._],8453/1,pancreas,C25,C41249,Pancreatic Intraductal Papillary-Mucinous Neoplasm with Low Grade Dysplasia
+intraductal papillary mucinous neoplasms of the pancreas [High grade ],Intraductal papillary-mucinous carcinoma non-invasive [C25._],8453/2,pancreas,C25,C5719,Pancreatic Intraductal Papillary-Mucinous Neoplasm with Intermediate Grade Dysplasia
+intraductal papillary mucinous neoplasms of the pancreas [IPMN invasive],Intraductal papillary-mucinous carcinoma invasive [C25._],8453/3,pancreas,C25,C5726,Pancreatic Intraductal Papillary-Mucinous Neoplasm with an Associated Invasive Carcinoma
+serous cystadenocarcinoma [Bilateral],Papillary serous cystadenocarcinoma,8460/3,ovary,C569,"C8377	",Papillary Serous Cystadenocarcinoma
+ovarian tumour [benign mucinous],Mucinous cystadenoma NOS,8470/0,ovary,C569,C4512,Ovarian Mucinous Cystadenoma
+ovarian tumour [borderline mucinous],Mucinous cystadenoma NOS,8480/0,ovary,C569,C4512,Ovarian Mucinous Cystadenoma
+gastric adenocarcinoma [Antrum/Distal],Mucinous adenocarcinoma,8480/3,stomach,C16,C26712,Mucinous Adenocarcinoma
+Colon Mucinous Adenocarcinoma [Cecum],Mucinous adenocarcinoma,8480/3,cecum,C180,C26712,Mucinous Adenocarcinoma
+rectum adenocarcinoma [Rectosigmoid Junction],Mucinous adenocarcinoma,8480/3,sigmoid incl. rectosigmoid junction,C187,C26712,Mucinous Adenocarcinoma
+lung adenocarcinoma [L-Lower],Mucinous adenocarcinoma,8480/3,large intestine excl. rectum and rectosigmoid junction,C189,C26712,Mucinous Adenocarcinoma
+rectum adenocarcinoma [Rectum],Mucinous adenocarcinoma,8480/3,rectum,C20,C26712,Mucinous Adenocarcinoma
+breast carcinoma [Prneg],Mucinous adenocarcinoma,8480/3,breast,C50,C26712,Mucinous Adenocarcinoma
+ovarian carcinoma [mucinous],Mucinous adenocarcinoma,8480/3,ovary,C569,C26712,Mucinous Adenocarcinoma
+Colon Mucinous Adenocarcinoma [Sigmoid Colon],Mucinous adenocarcinoma,8480/3,unknown,C809,C26712,Mucinous Adenocarcinoma
+signet ring adenocarcinoma,Signet ring cell carcinoma,8490/3,stomach,C16,C3774,Signet Ring Cell Carcinoma
+ductal carcinoma in situ of the breast,Ductal carcinoma in situ NOS,8500/2,breast,C50,C2924,Ductal Breast Carcinoma In Situ
+ductal carcinoma of the salivary glands,invasive carcinoma of no special type,8500/3,salivary gland NOS,C089,C9480,Invasive Carcinoma
+breast carcinoma,invasive carcinoma of no special type,8500/3,breast,C50,C4017,Ductal Breast Carcinoma
+Papillary breast ductal adenocarcinoma,Ductal carcinoma in situ papillary [C50._],8503/2,breast,C50,C4190,Intraductal Papillary Breast Carcinoma
+Papillary breast carcinoma,Intraductal papillary adenocarcinoma with invasion,8503/3,breast,C50,C36085,Invasive Papillary Breast Carcinoma
+Invasive Micropapillary Carcinoma,Invasive micropapillary carcinoma,8507/3,breast,C50,C4190,Intraductal Papillary Breast Carcinoma
+Breast medullary carcinoma,Medullary carcinoma NOS,8510/3,breast,C50,C9119,Medullary Breast Carcinoma 
+lobular intraepithelial neoplasia,Lobular carcinoma in situ,8520/2,breast,C50,C4018,Lobular Breast Carcinoma In Situ 
+breast ductal adenocarcinoma,Lobular carcinoma NOS,8520/3,breast,C50,C3771,Lobular Breast Carcinoma
+breast ductal adenocarcinoma [Left],Infiltrating duct and lobular carcinoma,8522/3,breast,C50,"C6393",Invasive Ductal and Invasive Lobular Breast Carcinoma
+breast ductal adenocarcinoma [Right],Infiltrating duct mixed with other types of carcinoma [C50._],8523/3,breast,C50,C5160,Mixed Lobular and Ductal Breast Carcinoma
+breast carcinoma,Infiltrating lobular mixed with other types of carcinoma,8524/3,breast,C50,C5160,Mixed Lobular and Ductal Breast Carcinoma
+breast carcinoma [Inflammatory],Inflammatory carcinoma,8530/3,breast,C50,C4001,Inflammatory Breast Carcinoma
+breast carcinoma [Inflammatory carcinoma cell line SUM225CWN],Inflammatory carcinoma,8530/3,breast,C50,C4001,Inflammatory Breast Carcinoma
+breast ductal adenocarcinoma,Paget disease and breast ductal adenocarcinoma of breast,8541/3,breast,C50,C47857,Paget Disease of the Breast
+lung adenocarcinoma [L-Upper],Acinar cell carcinoma,8550/3,lung and bronchus,C34,C5649,Acinar Lung Adenocarcinoma
+Adenosquamous carcinoma,Adenosquamous carcinoma,8560/3,stomach,C16,C5474,Gastric Adenosquamous Carcinoma
+Adenosquamous carcinoma,Adenosquamous carcinoma,8560/3,pancreas,C25,C3727,Adenosquamous Carcinoma
+lung adenocarcinoma,Adenosquamous carcinoma,8560/3,lung and bronchus,C34,C9133,Adenosquamous Lung Carcinoma
+salivary gland myoepitheliomas,Myoepithelial carcinoma,8562/3,salivary gland NOS,C089,C35700,Salivary Gland Myoepithelial Carcinoma
+breast carcinoma [metaplastic carcinoma cell line MDAMB157],Metaplastic carcinoma NOS,8575/3,breast,C50,C4872,Breast Carcinoma
+Paraganglioma,Paraganglioma NOS,8680/1,Nervous system NOS,C729,C3308,Paraganglioma
+paraganglioma,paraganglioma NOS,8680/1,adrenal cortex,C740,C3308,Paraganglioma
+Pheochromocytoma,Pheochromocytoma NOS,8700/0,adrenal cortex,C740,C3326,Adrenal Gland Pheochromocytoma
+malignant melanoma [metastatic cell line MaMel19],Malignant melanoma NOS,8720/3,skin,C44,C3224,Melanoma
+malignant melanoma [vagina],Malignant melanoma NOS,8720/3,vagina and labia,C510,C3224,Melanoma
+malignant melanoma [uvea metastasized],Malignant melanoma NOS,8720/3,retina,C692,C3224,Melanoma
+malignant melanoma [nodular cell line WM 278],Nodular melanoma,8721/3,skin,C44,C4225,Nodular Melanoma
+Malignant amelanotic melanoma,Amelanotic melanoma,8730/3,skin,C44,C3802,Amelanotic Melanoma
+Superficial spreading malignant melanoma,Superficial spreading melanoma,8743/3,skin,C44,C9152,Superficial Spreading Melanoma
+Spitz nevi,Epithelioid and spindle cell nevus (C44._),8770/0,skin,C44,C27007,Spitz Nevus
+Undifferentiated Pleomorphic Sarcoma,Sarcoma NOS,8800/3,connective and soft tissue NOS,C499,C9306,Soft Tissue Sarcoma
+uterus sarcoma,Sarcoma NOS,8800/3,uterus nos,C559,C9306,Soft Tissue Sarcoma
+Giant cell sarcoma,Giant cell sarcoma,8802/3,connective and soft tissue nos,C499,C66759,Giant Cell Sarcoma
+Pediatric undifferentiated sarcoma [head and neck],Undifferentiated sarcoma,8805/3,connective and soft tissue NOS,C499,C121804,"Undifferentiated Sarcoma, Not Otherwise Specified"
+Fibrosarcoma NOS,Fibrosarcoma NOS,8810/3,connective and soft tissue NOS,C499,C3043,Fibrosarcoma
+Myxofibrosarcoma,Myxofibrosarcoma,8811/3,connective and soft tissue NOS,C499,,
+Desmoplastic fibroma,Desmoplastic fibroma,8823/0,connective and soft tissue NOS,C499,C3740,Bone Desmoplastic Fibroma
+Inflammatory myofibroblastic tumour [pulmonary],Inflammatory myofibroblastic tumour,8825/1,lung and bronchus,C34,C6481,Inflammatory Myofibroblastic Tumor
+Fibrous histiocytoma NOS,Fibrous histiocytoma NOS,8830/0,connective and soft tissue NOS,C499,C3739,Benign Fibrous Histiocytoma
+Desmoplastic fibroma [malignant fibrous histiocytoma-like component],Fibrous histiocytoma malignant,8830/3,connective and soft tissue NOS,C499,C4247,Undifferentiated Pleomorphic Sarcoma
+Dermatofibrosarcoma protuberans,Pigmented dermatofibrosarcoma protuberans,8833/3,skin,C44,C9430,Pigmented Dermatofibrosarcoma Protuberans
+Liposarcoma,Liposarcoma NOS,8850/3,connective and soft tissue NOS,C499,C3194,Liposarcoma
+Liposarcoma,Liposarcoma NOS,8850/3,kidney,C649,C3194,Liposarcoma
+Liposarcoma myxoid,Liposarcoma myxoid,8852/3,connective and soft tissue NOS,C499,C27781,Myxoid Liposarcoma
+Liposarcoma pleomorphic,Liposarcoma pleomorphic,8854/3,connective and soft tissue NOS,C499,C3705,Pleomorphic Liposarcoma
+Dedifferentiated Liposarcoma,Liposarcoma dedifferentiated,8858/3,connective and soft tissue NOS,C499,C3704,Dedifferentiated Liposarcoma
+Uterine Leiomyoma,Leiomyoma NOS,8890/0,corpus uteri,C54,C3434,Uterine Corpus Leiomyoma
+leiomyoma,Leiomyoma NOS,8890/0,uterus nos,C559,C3157,Leiomyoma
+Leiomyosarcoma,Leiomyosarcoma NOS,8890/3,liver,C22,C3158,Leiomyosarcoma
+Leiomyosarcoma,Leiomyosarcoma NOS,8890/3,connective and soft tissue NOS,C499,C3158,Leiomyosarcoma
+Leiomyosarcoma,Leiomyosarcoma NOS,8890/3,kidney,C649,C3158,Leiomyosarcoma
+leiomyoblastoma,Epithelioid leiomyoma,8891/0,kidney,C649,C3157,Leiomyoma
+pediatric rhabdomyosarcoma,Rhabdomyosarcoma NOS,8900/3,connective and soft tissue NOS,C499,C3359,Rhabdomyosarcoma
+Embryonal rhabdomyosarcoma,Embryonal rhabdomyosarcoma,8910/3,nasopharynx,C11,C8971,Embryonal Rhabdomyosarcoma
+Embryonal rhabdomyosarcoma,Embryonal rhabdomyosarcoma,8910/3,bone NOS,C419,C8971,Embryonal Rhabdomyosarcoma
+Embryonal rhabdomyosarcoma,Embryonal rhabdomyosarcoma,8910/3,connective and soft tissue NOS,C499,C8971,Embryonal Rhabdomyosarcoma
+Embryonal rhabdomyosarcoma,Embryonal rhabdomyosarcoma,8910/3,prostate gland,C619,C8971,Embryonal Rhabdomyosarcoma
+Embryonal rhabdomyosarcoma,Embryonal rhabdomyosarcoma,8910/3,testis,C62,C8971,Embryonal Rhabdomyosarcoma
+Embryonal rhabdomyosarcoma,Embryonal rhabdomyosarcoma,8910/3,abdomen NOS,C762,C8971,Embryonal Rhabdomyosarcoma
+Alveolar rhabdomyosarcoma,Alveolar rhabdomyosarcoma,8920/3,connective and soft tissue NOS,C499,C3749,Alveolar Rhabdomyosarcoma
+gastrointestinal stromal tumor low biological potential,Gastrointestinal stromal tumor uncertain malignant potential,8936/1,stomach,C16,C54000,Gastrointestinal Stromal Tumor of Uncertain Malignant Potential 
+gastrointestinal stromal tumor low biological potential,Gastrointestinal stromal tumor uncertain malignant potential,8936/1,small intestine,C17,C54000,Gastrointestinal Stromal Tumor of Uncertain Malignant Potential 
+gastrointestinal stromal tumor low biological potential,Gastrointestinal stromal tumor uncertain malignant potential,8936/1,vagina and labia,C510,C54000,Gastrointestinal Stromal Tumor of Uncertain Malignant Potential 
+Gastrointestinal stromal tumor,Gastrointestinal stromal tumor malignant,8936/3,stomach,C16,C53999,Malignant Gastrointestinal Stromal Tumor
+gastrointestinal stromal tumor high biological potential,Gastrointestinal stromal tumor malignant,8936/3,small intestine,C17,C53999,Malignant Gastrointestinal Stromal Tumor
+gastrointestinal stromal tumor high biological potential,Gastrointestinal stromal tumor malignant,8936/3,retroperitoneum and peritoneum,C48,C53999,Malignant Gastrointestinal Stromal Tumor
+gastrointestinal stroma tumor,Gastrointestinal stromal tumor malignant,8936/3,connective and soft tissue nos,C499,C53999,Malignant Gastrointestinal Stromal Tumor
+gastrointestinal stromal tumor high biological potential,Gastrointestinal stromal tumor malignant,8936/3,ovary,C569,C53999,Malignant Gastrointestinal Stromal Tumor 
+gastrointestinal stromal tumor high biological potential,Gastrointestinal stromal tumor malignant,8936/3,abdomen NOS,C762,C3868,Gastrointestinal Stromal Tumor
+Nephroblastoma,Nephroblastoma NOS,8960/3,kidney,C649,C40407,Kidney Wilms Tumor
+wilms tumor [favorable],Nephroblastoma NOS,8960/3,kidney,C649,C40407,Kidney Wilms Tumor
+extra-renal rhabdoid tumour [p53mut Li-Fraumeni syndrome],Rhabdoid tumor NOS,8963/3,connective and soft tissue NOS,C499,C3808,Rhabdoid Tumor
+Rhabdoid tumor NOS,Rhabdoid tumor NOS,8963/3,kidney,C649,C3808,Rhabdoid Tumor
+pleuropulmonary blastoma,pleuropulmonary blastoma,8973/3,lung and bronchus,C34,C5669,Pleuropulmonary Blastoma
+carcinosarcoma,Carcinosarcoma NOS,8980/3,connective and soft tissue NOS,C499,C34448,Carcinosarcoma
+Carcinosarcoma [breast cell line HS578T],Carcinosarcoma NOS,8980/3,breast,C50,C34448,Carcinosarcoma
+salivary gland myoepitheliomas,Myoepithelioma,8982/0,salivary gland NOS,C089,C35701,Salivary Gland Epithelial Myoepithelial Carcinoma
+myoepithelioma,Myoepithelioma,8982/0,connective and soft tissue NOS,C499,C4199,Epithelial-Myoepithelial Carcinoma
+Myoepithelioma,Myoepithelioma,8982/0,ovary,C569,C4199,Epithelial-Myoepithelial Carcinoma
+Malignant phyllodes tumor,Phyllodes tumor malignant,9020/3,breast,C50,C4504,Malignant Breast Phyllodes Tumor
+Synovial sarcoma,Synovial sarcoma NOS,9040/3,connective and soft tissue NOS,C499,C3400,Synovial sarcoma
+Synovial sarcoma monophasic,Synovial sarcoma monophasic,9041/3,connective and soft tissue NOS,C499,,
+Synovial sarcoma biphasic,Synovial sarcoma biphasic,9043/3,connective and soft tissue NOS,C499,,
+mesothelioma,Mesothelioma NOS,9050/3,lung and bronchus,C34,C3234,Mesothelioma
+pleural mesothelioma,Mesothelioma NOS,9050/3,pleura,C384,C3234,Mesothelioma
+mesothelioma,Mesothelioma NOS,9050/3,connective and soft tissue NOS,C499,C3234,Mesothelioma
+mesothelioma [sarcomatoid],Desmoplastic mesothelioma,9051/3,connective and soft tissue NOS,C499,C6747,Desmoplastic Mesothelioma
+malignant mesothelioma,Epitheloid mesothelioma malignant,9052/3,pleura,C384,C7985,Epithelioid Mesothelioma
+malignant mesothelioma,Epitheloid mesothelioma malignant,9052/3,connective and soft tissue NOS,C499,C7985,Epithelioid Mesothelioma
+mesothelioma [biphasic],Mesothelioma biphasic malignant,9053/3,connective and soft tissue NOS,C499,C4282,Biphasic Mesothelioma 
+seminoma,Seminoma NOS,9061/3,testis,C62,C9309,Seminoma
+Primary Seminoma Testicular Germ Cell Tumour,Seminoma NOS,9061/3,epididymis spermatic cord male genital nos,C63,C9309,Seminoma
+Ovarian Carcinoma,Germinoma,9064/3,ovary,C569,C3708,Germ Cell Tumor
+primary intracranial pediatric germ cell tumor [immature teratoma and germinoma],germinoma,9064/3,Brain NOS,C719,C3708,Germ Cell Tumor
+testicular germ cell tumor,Germ cell tumor nonseminomatous,9065/3,testis,C62,C8591,Testicular Germ Cell Tumor 
+Primary Nonseminoma Testicular Germ Cell Tumour,Germ cell tumor nonseminomatous,9065/3,epididymis spermatic cord male genital nos,C63,C8591,Testicular Germ Cell Tumor 
+embryonal carcinoma,Embryonal carcinoma NOS,9070/3,lung and bronchus,C34,C3752,Embryonal Carcinoma
+embryonal carcinoma,Embryonal carcinoma NOS,9070/3,testis,C62,C3752,Embryonal Carcinoma
+yolk sac tumour,Yolk sac tumor,9071/3,lung and bronchus,C34,C3011,Yolk Sac Tumor
+yolk sac tumour,Yolk sac tumor,9071/3,Mediastinum,C38,C3011,Yolk Sac Tumor
+germ cell tumor [yolk sac tumor],Yolk sac tumor,9071/3,bones and joints,C400,C3011,Yolk Sac Tumor
+germ cell tumor [yolk sac tumor],Yolk sac tumor,9071/3,uterus nos,C559,C3011,Yolk Sac Tumor
+germ cell tumor [yolk sac tumor],Yolk sac tumor,9071/3,testis,C62,C3011,Yolk Sac Tumor
+primary intracranial pediatric germ cell tumor [yolk sac tumor],Yolk sac tumor,9071/3,Brain NOS,C719,C3011,Yolk Sac Tumor
+germ cell tumor [mature teratoma],Teratoma benign,9080/0,bones and joints,C400,C9015,Mature Teratoma
+germ cell tumor [mature teratoma],Teratoma benign,9080/0,testis,C62,C9015,Mature Teratoma
+primary intracranial pediatric germ cell tumor [mature teratoma],mature teratoma,9080/0,Brain NOS,C719,C9015,Mature Teratoma
+germ cell tumor [mature and immature teratoma],Teratoma malignant NOS,9080/3,bones and joints,C400,C3403,Tetratoma
+germ cell tumor [mature and immature teratoma],Teratoma malignant NOS,9080/3,connective and soft tissue NOS,C499,C3403,Tetratoma
+Teratoma,Teratoma malignant NOS,9080/3,ovary,C569,C3403,Tetratoma
+primary intracranial pediatric germ cell tumor [immature teratoma predominant embryonal carcinoma yolk sac tumor],immature teratoma,9080/3,Brain NOS,C719,C3403,Tetratoma
+Teratoma,Teratoma malignant NOS,9080/3,unknown,C809,C3403,Tetratoma
+Teratocarcinoma,Teratocarcinoma,9081/3,small intestine,C17,C3756,Testicular Mixed Embryonal Carcinoma and Teratoma
+Teratocarcinoma,Teratocarcinoma,9081/3,connective and soft tissue nos,C499,C3756,Testicular Mixed Embryonal Carcinoma and Teratoma
+Teratocarcinoma,Teratocarcinoma,9081/3,ovary,C569,C3756,Testicular Mixed Embryonal Carcinoma and Teratoma
+Teratocarcinoma,Teratocarcinoma,9081/3,testis,C62,C3756,Testicular Mixed Embryonal Carcinoma and Teratoma
+Mixed germ cell tumor [embryonal carcinoma and teratocarcinoma],Mixed germ cell tumor,9085/3,liver,C22,C9010,Mixed Teratoma and Seminoma
+Mixed germ cell tumor [TeratocarcinomaTeratoma with malignant transformation],Mixed germ cell tumor,9085/3,lung and bronchus,C34,C9010,Mixed Teratoma and Seminoma
+Mixed germ cell tumor [yolk sac tumourtrophs],Mixed germ cell tumor,9085/3,Mediastinum,C38,C9010,Mixed Teratoma and Seminoma
+Mixed germ cell tumor [Teratocarcinomayolk sac tumour],Mixed germ cell tumor,9085/3,connective and soft tissue nos,C499,C9010,Mixed Teratoma and Seminoma
+Mixed germ cell tumor [seminomaembryonal carcinoma],Mixed germ cell tumor,9085/3,testis,C62,C9010,Mixed Teratoma and Seminoma
+Mixed germ cell tumor [embryonal carcinomayolk sac tumour],Mixed germ cell tumor,9085/3,adrenal glands,C74,C9010,Mixed Teratoma and Seminoma
+choriocarcinoma [stomach],Choriocarcinoma,9100/3,stomach,C16,C2948,Choriocarcinoma
+choriocarcinoma,Choriocarcinoma,9100/3,uterus NOS,C559,C2948,Choriocarcinoma
+Hemangiosarcoma,Hemangioma NOS,9120/0,connective and soft tissue nos,C499,C3085,Hemangioma
+Angiosarcomas,Angiosarcoma,9120/3,connective and soft tissue NOS,C499,C3088,Angiosarcoma
+Angiosarcoma,Angiosarcoma,9120/3,breast,C50,C3088,Angiosarcoma
+Hemangioendothelioma malignant,Hemangioendothelioma malignant,9130/3,liver,C22,C3084,Hemangioendothelioma 
+Osteosarcoma,Osteosarcoma NOS,9180/3,bones and joints,C400,C9145,Osteosarcoma
+osteosarcoma,Osteosarcoma NOS,9180/3,bone NOS,C419,C9145,Osteosarcoma
+Osteosarcoma,Osteosarcoma NOS,9180/3,bones and joints,C809,C9145,Osteosarcoma
+osteosarcoma [high-grade pre-chemotherapy],Chondroblastic osteosarcoma,9181/3,bones and joints,C400,C4021,Chondroblastic Osteosarcoma
+Chondroblastic osteosarcoma,Chondroblastic osteosarcoma,9181/3,bone NOS,C419,C4021,Chondroblastic Osteosarcoma
+Osteosarcoma Fibroblastic,Fibroblastic osteosarcoma,9182/3,bones and joints,C400,C4020,Fibroblastic Osteosarcoma
+osteosarcoma [high-grade pre-chemotherapy],Osteosarcoma telangiectatic,9183/3,bones and joints,C400,C9145,Osteosarcoma
+enchondroma [Mafucci syndrome],Chondroma NOS,9220/0,connective and soft tissue NOS,C499,C53459,Chondroma
+chondrosarcoma,Chondrosarcoma NOS,9220/3,bones and joints,C400,C2946,Chondrosarcoma
+chondrosarcoma,Chondrosarcoma NOS,9220/3,bone NOS,C419,C2946,Chondrosarcoma
+Chondrosarcoma,Chondrosarcoma NOS,9220/3,connective and soft tissue NOS,C499,C2946,Chondrosarcoma
+Chondrosarcoma NOS,Chondrosarcoma NOS,9220/3,bones and joints,C809,C2946,Chondrosarcoma
+Ewing sarcoma,Ewing sarcoma,9260/3,bones and joints,C400,C4817,Ewing Sarcoma
+Ewing sarcoma,Ewing sarcoma,9260/3,bone NOS,C419,C4817,Ewing Sarcoma
+Pineoblastoma [pineal region],Pineoblastoma,9362/3,pineal gland,C753,C9344,Pineoblastoma
+Chordoma [Sacrum],Chordoma NOS,9370/3,bone NOS,C419,C2947,Chordoma
+Chordoma [Sacrococcygeal region],Chordoma NOS,9370/3,connective and soft tissue NOS,C499,C2947,Chordoma
+Chordoma,Chordoma NOS,9370/3,Spinal cord,C720,C2947,Chordoma
+chordoid glioma,Glioma NOS,9380/3,ventricle,C715,C3059,Glioma
+dfiffuse intrinsic pontine glioma,glioma NOS,9380/3,brain stem,C717,C3059,Glioma
+Glioma,Glioma NOS,9380/3,Brain NOS,C719,C3059,Glioma
+dfiffuse intrinsic pontine glioma,glioma NOS,9380/3,brain NOS,C719,C3059,Glioma
+Malignant glioma,Glioma malignant,9380/3,unknown,C809,C3059,Glioma
+Oligoastrocytoma [Supratentorial Temporal Lobe],Oligoastrocytoma,9382/3,cerebrum,C710,C4050,Oligoastrocytoma
+Anaplastic oligoastrocytoma,Oligoastrocytoma,9382/3,Brain NOS,C719,C4050,Oligoastrocytoma
+mixed oligoastrocytoma,Mixed glioma,9382/3,brain nos,C719,C3903,Mixed Glioma
+ependymoma [fourth ventricle],Ependymoma NOS,9391/3,cerebellum,C716,C6903,Tanycytic Ependymoma
+ependymoma [Medulla],Ependymoma NOS,9391/3,brain stem,C717,C6903,Tanycytic Ependymoma
+ependymoma [pediatric],Ependymoma NOS,9391/3,Brain NOS,C719,C6903,Tanycytic Ependymoma
+myxopapillary ependymoma [cauda equina],Ependymoma NOS,9391/3,Spinal cord,C720,C6903,Tanycytic Ependymoma
+Astrocytoma [Supratentorial Frontal Lobe],Astrocytoma NOS,9400/3,cerebrum,C710,C7173,Diffuse Astrocytoma
+Pilocytic astrocytoma,Astrocytoma NOS,9400/3,brain stem,C717,C7173,Diffuse Astrocytoma
+Astrocytoma,Astrocytoma NOS,9400/3,Brain NOS,C719,C7173,Diffuse Astrocytoma
+Diffusely infiltrating astrocytoma,Astrocytoma NOS,9400/3,brain nos,C719,C7173,Diffuse Astrocytoma
+Anaplastic astrocytoma,Astrocytoma anaplastic,9401/3,Cerebrum,C710,C9477,Anaplastic Astrocytoma 
+Anaplastic astrocytoma,Astrocytoma anaplastic,9401/3,brain stem,C717,C9477,Anaplastic Astrocytoma 
+Anaplastic astrocytoma,Astrocytoma anaplastic,9401/3,brain nos,C719,C9477,Anaplastic Astrocytoma
+anaplastic astrocytoma,Astrocytoma anaplastic,9401/3,Brain NOS,C719,C9477,Anaplastic Astrocytoma
+Pilocytic astrocytoma [Left frontal lobe],Pilocytic astrocytoma,9421/1,cerebrum,C710,C4047,Pilocytic Astrocytoma
+Pilocytic astrocytoma,Pilocytic astrocytoma,9421/1,ventricle,C715,C4047,Pilocytic Astrocytoma
+Pilocytic astrocytoma,Pilocytic astrocytoma,9421/1,cerebellum,C716,C4047,Pilocytic Astrocytoma
+Pilocytic astrocytoma,Pilocytic astrocytoma,9421/1,brain stem,C717,C4047,Pilocytic Astrocytoma
+Pilocytic astrocytoma,Pilocytic astrocytoma,9421/1,Brain NOS,C719,C4047,Pilocytic Astrocytoma
+Pilocytic astrocytoma [Optic nerve],Pilocytic astrocytoma,9421/1,Optic chiasm,C723,C4047,Pilocytic Astrocytoma
+Pilocytic astrocytoma,Pilocytic astrocytoma,9421/1,pineal gland,C753,C4047,Pilocytic Astrocytoma
+Anaplastic pleomorphic xanthoastrocytoma,Pleomorphic xanthoastrocytoma,9424/3,brain nos,C719,C4323,Pleomorphic Xanthoastrocytoma
+Astroblastoma,Astroblastoma,9430/3,brain nos,C719,C4324,Astroblastoma
+Glioblastoma,Glioblastoma NOS,9440/3,Cerebrum,C710,C3058,Glioblastoma
+Glioblastoma,Glioblastoma NOS,9440/3,brain stem,C717,C3058,Glioblastoma
+glioblastoma,Glioblastoma multiforme,9440/3,brain nos,C719,C3058,Glioblastoma
+glioblastoma [],Glioblastoma NOS,9440/3,brain NOS,C719,C3058,Glioblastoma
+Glioblastoma,Glioblastoma NOS,9440/3,Optic chiasm,C723,C3058,Glioblastoma
+Gliosarcoma,Gliosarcoma,9442/3,brain nos,C719,C3796,Gliosarcoma
+Oligodendroglioma [Supratentorial Frontal Lobe],Oligodendroglioma NOS,9450/3,cerebrum,C710,C3288,Oligodendroglioma
+oilgodendroglioma,Oligodendroglioma NOS,9450/3,Brain NOS,C719,C3288,Oligodendroglioma
+oligodendroglioma,Oligodendroglioma NOS,9450/3,brain nos,C719,C3288,Oligodendroglioma
+Anaplastic oligodendroglioma,Oligodendroglioma anaplastic,9451/3,Cerebrum,C710,C6959,Anaplastic Oligoastrocytoma
+Anaplastic oligodendroglioma,Oligodendroglioma anaplastic,9451/3,Brain NOS,C719,C4326,Anaplastic Oligodendroglioma
+Anaplastic oligodendroglioma,Oligodendroglioma anaplastic,9451/3,brain nos,C719,C4326,Anaplastic Oligodendroglioma
+medulloblastoma,Medulloblastoma NOS,9470/3,cerebellum,C716,C3222,Medulloblastoma
+Medulloblastoma,Medulloblastoma with extensive nodularity,9471/3,cerebellum,C716,C4956,Desmoplastic/Nodular Medulloblastoma
+primitive neuroectodermal tumor [cerebral region],Primitive neuroectodermal tumor NOS,9473/3,cerebrum,C710,C6968,"Supratentorial Embryonal Tumor, Not Otherwise Specified"
+Primitive neuroectodermal tumor [brain stem],Primitive neuroectodermal tumor NOS,9473/3,brain stem,C717,C5398,"Central Nervous System Embryonal Tumor, Not Otherwise Specified"
+Primitive neuroectodermal tumor,Primitive neuroectodermal tumor NOS,9473/3,Brain NOS,C719,C5398,"Central Nervous System Embryonal Tumor, Not Otherwise Specified"
+Primitive neuroectodermal tumor,Primitive neuroectodermal tumor NOS,9473/3,brain nos,C719,C5398,"Central Nervous System Embryonal Tumor, Not Otherwise Specified"
+Anaplastic medulloblastoma [supratentorial],Large cell / Anaplastic medulloblastoma,9474/3,cerebrum,C710,C6904,Large Cell Medulloblastoma
+Medulloblastoma [large cell/anaplastic],Large cell / Anaplastic medulloblastoma,9474/3,cerebellum,C716,C6904,Large Cell Medulloblastoma
+neuroblastoma,Neuroblastoma NOS,9500/3,peripheral nervs incl. autonomous,C47,C3270,Neuroblastoma
+Cerebral neuroblastoma [cerebral region midline frontal lobe],Neuroblastoma NOS,9500/3,cerebrum,C710,C3270,Neuroblastoma
+neuroblastoma [adrenal gland cell line],Neuroblastoma NOS,9500/3,adrenal gland,C76,C3270,Neuroblastoma
+Cribriform neuroepithelial tumor,Neuroepithelioma NOS,9503/3,Nervous system NOS,C729,C121963,Cribriform Neuroepithelial Tumor
+Atypical teratoid/rhabdoid tumor,Atypical teratoid/rhabdoid tumor,9508/3,cerebellum,C716,C6906,Atypical Teratoid/Rhabdoid Tumor
+Retinoblastoma,Retinoblastoma NOS,9510/3,retina,C692,C7541,Retinoblastoma
+Olfactory neuroblastoma,Olfactory neuroblastoma,9522/3,Brain NOS,C719,C3789,Olfactory Neuroblastoma
+Olfactory neuroblastoma,Olfactory neuroblastoma,9522/3,Nervous system NOS,C729,C3789,Olfactory Neuroblastoma
+meningioma,Meningioma NOS,9530/0,meninges cerebral spinal,C700,C3230,Meningioma
+Cutaneous neurofibroma,Neurofibroma NOS,9540/0,skin,C44,C3272,Neurofibroma
+Plexiform neurofibroma,Neurofibroma NOS,9540/0,Nervous system NOS,C729,C3272,Neurofibroma
+Malignant peripheral nerve sheath tumor,Malignant peripheral nerve sheath tumor,9540/3,peripheral nervs incl. autonomous,C47,C3798,Malignant Peripheral Nerve Sheath Tumor
+Malignant peripheral nerve sheath tumor,Malignant peripheral nerve sheath tumor,9540/3,Nervous system NOS,C729,C3798,Malignant Peripheral Nerve Sheath Tumor
+Schwannoma,Schwannoma NOS,9560/0,peripheral nervs incl. autonomous,C47,C3269,Schwannoma
+Alveolar soft part sarcoma [recurrence],Alveolar soft part sarcoma,9581/3,connective and soft tissue NOS,C499,"C8798",Recurrent Alveolar Soft Part Sarcoma
+Granular cell tumor,Granular cell tumor,9582/0,ovary,C569,C3474,Granular Cell Tumor
+Lymphoma,Malignant lymphoma NOS,9590/3,hematopoietic and reticuloendothelial systems,C42,C3208,Lymphoma
+Lymphoma [cell line SR; cell line SR],Malignant lymphoma NOS,9590/3,lymph nodes,C77,C3208,Lymphoma
+B-cell lymphoma,Malignant lymphoma B-cell NOS,9591/3,hematopoietic and reticuloendothelial systems,C42,C8936,B Lymphoblastic Leukemia/Lymphoma 
+B-cell lymphoma,Malignant lymphoma B-cell NOS,9591/3,lymph nodes,C77,C8936,B Lymphoblastic Leukemia/Lymphoma 
+Composite Hodgkin and Non-Hodgkin lymphoma,Composite Hodgkin and Non-Hodgkin lymphoma,9596/3,lymph nodes,C77,C38661,Composite Lymphoma 
+Hodgkin lymphoma,Hodgkin lymphoma NOS,9650/3,lymph nodes,C77,C9357,Hodgkin Lymphoma
+Lymphoplasmacytic lymphoma,Malignant lymphoma lymphoplasmacytic,9671/3,hematopoietic and reticuloendothelial systems,C42,C3898,Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+Lymphoplasmacytic Lymphoma,Malignant lymphoma lymphoplasmacytic,9671/3,lymph nodes,C77,C3898,Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+Mantle cell lymphoma,Mantle cell lymphoma,9673/3,hematopoietic and reticuloendothelial systems,C42,C4337,Mantle Cell Lymphoma
+Mantle cell lymphoma,Mantle cell lymphoma,9673/3,spleen,C422,C4337,Mantle Cell Lymphoma
+mantle cell lymphoma [Classic],Mantle cell lymphoma,9673/3,lymph nodes,C77,C4337,Mantle Cell Lymphoma
+primary effusion lymphoma,Primary effusion lymphoma,9678/3,pleura,C384,C6915,Primary Effusion Lymphoma
+primary mediastinal B-cell lymphoma,Mediastinal large B-cell lymphoma,9679/3,mediastinum,C38,C9280,Mediastinal (Thymic) Large B-Cell Lymphoma
+Diffuse large B-cell lymphoma,Diffuse large B-cell lymphoma NOS,9680/3,Tonsil,C09,C8851,Diffuse Large B-Cell Lymphoma
+Diffuse large B-cell lymphoma,Diffuse large B-cell lymphoma NOS,9680/3,hematopoietic and reticuloendothelial systems,C42,C8851,Diffuse Large B-Cell Lymphoma
+diffuse large B-cell lymphoma [testis],Diffuse large B-cell lymphoma NOS,9680/3,testis,C62,C8851,Diffuse Large B-Cell Lymphoma
+diffuse large B-cell lymphoma [CNS],Diffuse large B-cell lymphoma NOS,9680/3,Brain NOS,C719,C8851,Diffuse Large B-Cell Lymphoma
+diffuse large B-cell lymphoma [germinal center B-cell-like],Malignant lymphoma large B-cell diffuse NOS,9680/3,lymph nodes,C77,C8851,Diffuse Large B-Cell Lymphoma
+Burkitt lymphoma,Burkitt lymphoma NOS,9687/3,hematopoietic and reticuloendothelial systems,C42,C6917,Atypical Burkitt/Burkitt-Like Lymphoma
+Burkitt lymphoma,Burkitt lymphoma NOS,9687/3,lymph nodes,C77,C6917,Atypical Burkitt/Burkitt-Like Lymphoma
+Splenic marginal zone lymphoma,splenic marginal zone lymphoma nos,9689/3,spleen,C422,C4663,Splenic Marginal Zone Lymphoma
+Follicular lymphoma,Follicular lymphoma NOS,9690/3,hematopoietic and reticuloendothelial systems,C42,C3209,Follicular Lymphoma
+Follicular lymphoma,Follicular lymphoma NOS,9690/3,lymph nodes,C77,C3209,Follicular Lymphoma
+Follicular lymphoma grade 2,Follicular lymphoma grade 2,9691/3,hematopoietic and reticuloendothelial systems,C42,C8968,Grade 2 Follicular Lymphoma
+Follicular lymphoma grade 1,Follicular lymphoma grade 1,9695/3,hematopoietic and reticuloendothelial systems,C42,C3465,Grade 1 Follicular Lymphoma
+Follicular lymphoma grade 3,Follicular lymphoma grade 3,9698/3,hematopoietic and reticuloendothelial systems,C42,C3460,Grade 3 Follicular Lymphoma
+MALT lymphoma,Extranodal marginal zone B-cell lymphoma,9699/3,salivary gland NOS,C089,C7230,Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+MALT Lymphoma,Marginal zone lymphoma NOS,9699/3,stomach,C16,C5266,Gastric Mucosa-Associated Lymphoid Tissue Lymphoma 
+MALT lymphoma,Extranodal marginal zone B-cell lymphoma,9699/3,lung and bronchus,C34,C5264,Bronchial Mucosa-Associated Lymphoid Tissue Lymphoma
+MALT lymphoma,Extranodal marginal zone B-cell lymphoma,9699/3,hematopoietic and reticuloendothelial systems,C42,C3898,Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+Extranodal marginal zone B-cell lymphoma,Extranodal marginal zone B-cell lymphoma,9699/3,eye nos,C699,C35689,Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue Ocular Adnexal Mucosa-Associated Lymphoid Tissue Lymphoma
+Marginal zone lymphoma,Marginal zone lymphoma NOS,9699/3,lymph nodes,C77,C8863,Nodal Marginal Zone Lymphoma
+Mycosis fungoides,Mycosis fungoides,9700/3,skin,C44,C3246,Mycosis Fungoides
+Sezary syndrome,Sezary syndrome,9701/3,hematopoietic and reticuloendothelial systems,C42,C3366,Sezary Syndrome
+sezary syndrome,sezary syndrome,9701/3,skin,C44,C3366,Sezary Syndrome
+Peripheral T-cell lymphoma,mature t-cell lymphoma,9702/3,lymph nodes,C77,C7204,T-Zone Variant Peripheral T-Cell Lymphoma
+Angioimmunoblastic T-cell lymphoma,Angioimmunoblastic T-cell lymphoma,9705/3,lymph nodes,C77,C7528,Angioimmunoblastic T-Cell Lymphoma
+Peripheral T-cell lymphoma [cutaneous],Primary cutaneous peripheral T-cell lymphoma NOS,9709/3,skin,C44,C45332,"Primary Cutaneous Peripheral T-Cell Lymphoma, Rare Subtype"
+Anaplastic large cell lymphoma,Anaplastic large cell lymphoma NOS,9714/3,hematopoietic and reticuloendothelial systems,C42,C3720,Anaplastic Large Cell Lymphoma
+Anaplastic large cell lymphoma,Anaplastic large cell lymphoma NOS,9714/3,lymph nodes,C77,C3720,Anaplastic Large Cell Lymphoma
+Hepatosplenic T-cell lymphoma,Hepatosplenic gamma/delta T-cell lymphoma,9716/3,hematopoietic and reticuloendothelial systems,C42,C8459,Hepatosplenic T-Cell Lymphoma
+Enteropathy type T-cell lymphoma,Enteropathy type T-cell lymphoma,9717/3,small intestine,C17,C4737,Enteropathy-Associated T-Cell Lymphoma
+Anaplastic large cell lymphoma [cutaneous],Anaplastic large cell lymphoma cutaneous type,9718/3,skin,C44,C6860,Primary Cutaneous Anaplastic Large Cell Lymphoma
+lymphoblastic lymphoma [B-cell],Precursor B-cell lymphoblastic lymphoma,9728/3,lymph nodes,C77,C8936,B Lymphoblastic Leukemia/Lymphoma 
+lymphoblastic lymphoma [T-cell],Precursor T-cell lymphoblastic lymphoma,9729/3,lymph nodes,C77,C6919,T Lymphoblastic Lymphoma
+multiple myeloma,Multiple myeloma,9731/3,hematopoietic and reticuloendothelial systems,C42,C3242,Plasma Cell Myeloma
+multiple myeloma,Multiple myeloma,9731/3,lymph nodes,C77,C3242,Plasma Cell Myeloma
+multiple myeloma,Plasma cell myeloma,9732/3,hematopoietic and reticuloendothelial systems,C42,C3242,Plasma Cell Myeloma
+Plasma cell leukemia,Plasma cell leukemia,9733/3,hematopoietic and reticuloendothelial systems,C42,C3180,Plasma Cell Leukemia
+Dendritic cell tumour,Dendritic cell sarcoma NOS,9757/3,hematopoietic and reticuloendothelial systems,C42,C9282,Interdigitating Dendritic Cell Sarcoma
+Waldenstrom macroglobulinemia,Waldenstrom macroglobulinemia,9761/3,hematopoietic and reticuloendothelial systems,C42,C80307,Waldenstrom Macroglobulinemia
+monoclonal gammopathy of unknown significance,Monoclonal gammopathy,9765/1,hematopoietic and reticuloendothelial systems,C42,C3996,Monoclonal Gammopathy of Undetermined Significance
+leukemia,Leukemia NOS,9800/3,hematopoietic and reticuloendothelial systems,C42,C3161,Leukemia
+Leukemia NOS,Acute leukemia NOS,9801/3,hematopoietic and reticuloendothelial systems,C42,C9298,Acute Undifferentiated Leukemia
+Acute mixed lineage leukemia,Acute mixed lineage leukemia,9805/3,hematopoietic and reticuloendothelial systems,C42,C4673,Acute Biphenotypic Leukemia
+Acute lymphoblastic leukemia [ETV6-RUNX1pos],B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1),9814/3,hematopoietic and reticuloendothelial systems,C42,C80343,B Acute Lymphoblastic Leukemia with t(12;21)(p13.2;q22.1); ETV6-RUNX1
+Chronic lymphocytic leukemia,B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma,9823/3,hematopoietic and reticuloendothelial systems,C42,C3163,Chronic Lymphocytic Leukemia
+Acute lymphoblastic leukemia mature B-cell type,Acute lymphoblastic leukemia mature B-cell type,9826/3,hematopoietic and reticuloendothelial systems,C42,C8644,B Acute Lymphoblastic Leukemia
+Adult T-cell leukemia/lymphoma,Adult T-cell leukemia/lymphoma [HTLV1 pos.],9827/3,hematopoietic and reticuloendothelial systems,C42,C3184,Adult T-Cell Leukemia/Lymphoma
+T-cell prolymphocytic leukemia,Prolymphocytic leukemia T-cell type,9834/3,hematopoietic and reticuloendothelial systems,C42,C4752,T-Cell Prolymphocytic Leukemia
+Acute lymphoblastic leukemia,Acute lymphoblastic leukemia NOS,9835/3,hematopoietic and reticuloendothelial systems,C42,C3167,Acute Lymphoblastic Leukemia
+B-cell precursor acute lymphoblastic leukaemia [relapse],Precursor B-cell lymphoblastic leukemia,9836/3,hematopoietic and reticuloendothelial systems,C42,C8644,Precursor B Lymphoblastic Leukemia
+acute lymphoblastic leukemia [T-cell],Precursor T-cell lymphoblastic leukemia,9837/3,hematopoietic and reticuloendothelial systems,C42,C3183,T Acute Lymphoblastic Leukemia
+acute monocytic leukemia,Monocytic leukemia NOS,9860/3,hematopoietic and reticuloendothelial systems,C42,C3171,Acute Myeloid Leukemia
+acute myeloid leukemia,Acute myeloid leukemia NOS,9861/3,hematopoietic and reticuloendothelial systems,C42,C27753,Acute Myeloid Leukemia Not Otherwise Specified
+Chronic myeloid leukemia,Chronic myeloid leukemia NOS,9863/3,hematopoietic and reticuloendothelial systems,C42,C3174,Chronic Myelogenous Leukemia BCR-ABL1 Positive
+Acute promyelocytic leukemia,Acute promyelocytic leukemia [FAB type M3],9866/3,hematopoietic and reticuloendothelial systems,C42,C3182,Acute Promyelocytic Leukemia with PML-RARA
+Acute myeloblastic leukemia with maturation [FAB M2],Acute myeloblastic leukemia with maturation [FAB M2],9874/3,hematopoietic and reticuloendothelial systems,C42,C3250,Acute Myeloid Leukemia with Maturation
+Atypical chronic myeloid leukemia,Atypical chronic myeloid leukemia BCR/ABL negative,9876/3,hematopoietic and reticuloendothelial systems,C42,C3519,"Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative "
+acute monocytic leukemia,Acute monoblastic leukemia [FAB M5],9891/3,hematopoietic and reticuloendothelial systems,C42,C7171,Acute Monoblastic Leukemia
+acute megakaryoblastic leukemia [Down syndrome],Acute megakaryoblastic leukemia [FAB M7],9910/3,hematopoietic and reticuloendothelial systems,C42,C3170,Acute Megakaryoblastic Leukemia
+chronic myelo-monocytic leukemia,Chronic myelomonocytic leukemia NOS,9945/3,hematopoietic and reticuloendothelial systems,C42,C3178,Chronic Myelomonocytic Leukemia
+polycythemia vera,Polycythemia vera,9950/3,hematopoietic and reticuloendothelial systems,C42,C3336,Polycythemia Vera
+myeloproliferative neoplasm,Chronic myeloproliferative disease NOS,9960/3,hematopoietic and reticuloendothelial systems,C42,C4345,Myeloproliferative Neoplasm
+Osteomyelofibrosis,Primary myelofibrosis,9961/3,hematopoietic and reticuloendothelial systems,C42,C2862,Primary Myelofibrosis
+essential thrombocythemia,Essential thrombocythemia,9962/3,hematopoietic and reticuloendothelial systems,C42,C3407,Essential Thrombocythemia
+Hypereosinophilic syndrome,Hypereosinophilic syndrome,9964/3,hematopoietic and reticuloendothelial systems,C42,C4563,Chronic Eosinophilic Leukemia Not Otherwise Specified
+myelodysplastic syndrome [RA],Refractory anemia NOS,9980/3,hematopoietic and reticuloendothelial systems,C42,C2872,Refractory Anemia
+myelodysplastic syndrome [RARS],Refractory anemia with ringed sideroblasts [RARS],9982/3,hematopoietic and reticuloendothelial systems,C42,C4036,Myelodysplastic Syndrome with Ring Sideroblasts
+myelodysplastic syndrome [RAEB],Refractory anemia with excess blasts [RAEB],9983/3,hematopoietic and reticuloendothelial systems,C42,C7506,Myelodysplastic Syndrome with Excess Blasts
+myelodysplastic syndrome [RCMD],Refractory cytopenia with multilineage dysplasia,9985/3,hematopoietic and reticuloendothelial systems,C42,C8574,Myelodysplastic Syndrome with Multilineage Dysplasia
+myelodysplastic syndrome [5q-],Myelodysplastic syndrome with 5q- syndrome,9986/3,hematopoietic and reticuloendothelial systems,C42,C6867,Myelodysplastic Syndrome with Isolated del(5q) 
+Myelodysplastic syndrome,Myelodysplastic syndrome NOS,9989/3,hematopoietic and reticuloendothelial systems,C42,C3247,Myelodysplastic Syndrome
+,,,unknown,C809,,
