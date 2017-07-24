@@ -1,0 +1,5 @@
+Prefix: Thesaurus: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>Prefix: ICD0TM: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>Ontology: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>AnnotationProperty: ICD0TM:icdo_morphology_code
+    Annotations: 
+	rdfs:label "ICD-O-3 Code morphology"^^xsd:stringAnnotationProperty: ICD0TM:icdo_topography_code
+    Annotations: 
+	rdfs:label "ICD-O-3 Code topography"^^xsd:stringObjectProperty: Thesaurus:R101
