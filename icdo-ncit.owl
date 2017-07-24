@@ -3,11 +3,402 @@ Prefix: Thesaurus: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>Prefix: 
            rdfs:label "ICD-O-3 Code morphology"^^xsd:stringAnnotationProperty: ICD0TM:icdo_topography_code
        Annotations: 
           rdfs:label "ICD-O-3 Code topography"^^xsd:stringObjectProperty: Thesaurus:R101
-Class: 9989/3%3AC42 
+Class: 9451/3%3AC719 
         Annotations: 
-            rdfs:label "9989/3/C42" 
-            ICD0TM:icdo_morphology_code "C3247"^^xsd:string,
-            ICD0TM:icdo_topography_code ""^^xsd:string,
+            rdfs:label "9451/3/C719" 
+            ICD0TM:icdo_morphology_code "C4326"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12439"^^xsd:string,
                         
-        EquivalentTo: Thesaurus:C3247 and Thesaurus:R101 some Thesaurus:
-:
+        EquivalentTo: Thesaurus:C4326 and Thesaurus:R101 some Thesaurus:C12439
+
+Class: 8380/3%3AC54 
+        Annotations: 
+            rdfs:label "8380/3/C54" 
+            ICD0TM:icdo_morphology_code "C3769"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12316"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3769 and Thesaurus:R101 some Thesaurus:C12316
+
+Class: 8070/3%3AC44 
+        Annotations: 
+            rdfs:label "8070/3/C44" 
+            ICD0TM:icdo_morphology_code "C2926"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12470"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2926 and Thesaurus:R101 some Thesaurus:C12470
+
+Class: 8430/3%3AC089 
+        Annotations: 
+            rdfs:label "8430/3/C089" 
+            ICD0TM:icdo_morphology_code "C45544"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12426"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C45544 and Thesaurus:R101 some Thesaurus:C12426
+
+Class: 8441/3%3AC570 
+        Annotations: 
+            rdfs:label "8441/3/C570" 
+            ICD0TM:icdo_morphology_code "C7550"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12403"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C7550 and Thesaurus:R101 some Thesaurus:C12403
+
+Class: 8272/3%3AC751 
+        Annotations: 
+            rdfs:label "8272/3/C751" 
+            ICD0TM:icdo_morphology_code "C4536"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12399"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C4536 and Thesaurus:R101 some Thesaurus:C12399
+
+Class: 8500/2%3AC50 
+        Annotations: 
+            rdfs:label "8500/2/C50" 
+            ICD0TM:icdo_morphology_code "C3641"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12971"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3641 and Thesaurus:R101 some Thesaurus:C12971
+
+Class: 8200/3%3AC32 
+        Annotations: 
+            rdfs:label "8200/3/C32" 
+            ICD0TM:icdo_morphology_code "C2970"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12420"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2970 and Thesaurus:R101 some Thesaurus:C12420
+
+Class: 9370/3%3AC419 
+        Annotations: 
+            rdfs:label "9370/3/C419" 
+            ICD0TM:icdo_morphology_code "C2947"^^xsd:string,
+            ICD0TM:icdo_topography_code "C13076"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2947 and Thesaurus:R101 some Thesaurus:C13076
+
+Class: 8140/3%3AC809 
+        Annotations: 
+            rdfs:label "8140/3/C809" 
+            ICD0TM:icdo_morphology_code "C27745"^^xsd:string,
+            ICD0TM:icdo_topography_code "C35882"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C27745 and Thesaurus:R101 some Thesaurus:C35882
+
+Class: 8200/3%3AC10 
+        Annotations: 
+            rdfs:label "8200/3/C10" 
+            ICD0TM:icdo_morphology_code "C2970"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12762"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2970 and Thesaurus:R101 some Thesaurus:C12762
+
+Class: 8890/3%3AC649 
+        Annotations: 
+            rdfs:label "8890/3/C649" 
+            ICD0TM:icdo_morphology_code "C3158"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12415"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3158 and Thesaurus:R101 some Thesaurus:C12415
+
+Class: 8250/3%3AC34 
+        Annotations: 
+            rdfs:label "8250/3/C34" 
+            ICD0TM:icdo_morphology_code "C2923"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12683"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2923 and Thesaurus:R101 some Thesaurus:C12683
+
+Class: 8720/3%3AC692 
+        Annotations: 
+            rdfs:label "8720/3/C692" 
+            ICD0TM:icdo_morphology_code "C3510"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12343"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3510 and Thesaurus:R101 some Thesaurus:C12343
+
+Class: 8140/3%3AC25 
+        Annotations: 
+            rdfs:label "8140/3/C25" 
+            ICD0TM:icdo_morphology_code "C27745"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12393"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C27745 and Thesaurus:R101 some Thesaurus:C12393
+
+Class: 8070/3%3AC01 
+        Annotations: 
+            rdfs:label "8070/3/C01" 
+            ICD0TM:icdo_morphology_code "C2926"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12422"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2926 and Thesaurus:R101 some Thesaurus:C12422
+
+Class: 8140/0%3AC20 
+        Annotations: 
+            rdfs:label "8140/0/C20" 
+            ICD0TM:icdo_morphology_code "C4196"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12390"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C4196 and Thesaurus:R101 some Thesaurus:C12390
+
+Class: 8480/0%3AC569 
+        Annotations: 
+            rdfs:label "8480/0/C569" 
+            ICD0TM:icdo_morphology_code "C2973"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12404"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2973 and Thesaurus:R101 some Thesaurus:C12404
+
+Class: 8140/3%3AC180 
+        Annotations: 
+            rdfs:label "8140/3/C180" 
+            ICD0TM:icdo_morphology_code "C27745"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12381"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C27745 and Thesaurus:R101 some Thesaurus:C12381
+
+Class: 9401/3%3AC717 
+        Annotations: 
+            rdfs:label "9401/3/C717" 
+            ICD0TM:icdo_morphology_code "C9477"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12441"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C9477 and Thesaurus:R101 some Thesaurus:C12441
+
+Class: 8021/3%3AC09 
+        Annotations: 
+            rdfs:label "8021/3/C09" 
+            ICD0TM:icdo_morphology_code "C4450"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12802"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C4450 and Thesaurus:R101 some Thesaurus:C12802
+
+Class: 9540/0%3AC729 
+        Annotations: 
+            rdfs:label "9540/0/C729" 
+            ICD0TM:icdo_morphology_code "C3272"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12755"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3272 and Thesaurus:R101 some Thesaurus:C12755
+
+Class: 9391/3%3AC720 
+        Annotations: 
+            rdfs:label "9391/3/C720" 
+            ICD0TM:icdo_morphology_code "C3017"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12464"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3017 and Thesaurus:R101 some Thesaurus:C12464
+
+Class: 8370/3%3AC740 
+        Annotations: 
+            rdfs:label "8370/3/C740" 
+            ICD0TM:icdo_morphology_code "C9325"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12396"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C9325 and Thesaurus:R101 some Thesaurus:C12396
+
+Class: 8330/0%3AC739 
+        Annotations: 
+            rdfs:label "8330/0/C739" 
+            ICD0TM:icdo_morphology_code "C3502"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12400"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3502 and Thesaurus:R101 some Thesaurus:C12400
+
+Class: 8140/0%3AC16 
+        Annotations: 
+            rdfs:label "8140/0/C16" 
+            ICD0TM:icdo_morphology_code "C4196"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12391"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C4196 and Thesaurus:R101 some Thesaurus:C12391
+
+Class: 9391/3%3AC716 
+        Annotations: 
+            rdfs:label "9391/3/C716" 
+            ICD0TM:icdo_morphology_code "C3017"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12445"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3017 and Thesaurus:R101 some Thesaurus:C12445
+
+Class: 8070/3%3AC04 
+        Annotations: 
+            rdfs:label "8070/3/C04" 
+            ICD0TM:icdo_morphology_code "C2926"^^xsd:string,
+            ICD0TM:icdo_topography_code "C102349"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2926 and Thesaurus:R101 some Thesaurus:C102349
+
+Class: 9728/3%3AC77 
+        Annotations: 
+            rdfs:label "9728/3/C77" 
+            ICD0TM:icdo_morphology_code "C3167"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12745"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3167 and Thesaurus:R101 some Thesaurus:C12745
+
+Class: 9380/3%3AC715 
+        Annotations: 
+            rdfs:label "9380/3/C715" 
+            ICD0TM:icdo_morphology_code "C4627"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12730"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C4627 and Thesaurus:R101 some Thesaurus:C12730
+
+Class: 9678/3%3AC384 
+        Annotations: 
+            rdfs:label "9678/3/C384" 
+            ICD0TM:icdo_morphology_code "C6915"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12469"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C6915 and Thesaurus:R101 some Thesaurus:C12469
+
+Class: 8910/3%3AC619 
+        Annotations: 
+            rdfs:label "8910/3/C619" 
+            ICD0TM:icdo_morphology_code "C8971"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12410"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C8971 and Thesaurus:R101 some Thesaurus:C12410
+
+Class: 8070/3%3AC11 
+        Annotations: 
+            rdfs:label "8070/3/C11" 
+            ICD0TM:icdo_morphology_code "C2926"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12423"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2926 and Thesaurus:R101 some Thesaurus:C12423
+
+Class: 8010/3%3AC15 
+        Annotations: 
+            rdfs:label "8010/3/C15" 
+            ICD0TM:icdo_morphology_code "C3709"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12389"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3709 and Thesaurus:R101 some Thesaurus:C12389
+
+Class: 8910/3%3AC62 
+        Annotations: 
+            rdfs:label "8910/3/C62" 
+            ICD0TM:icdo_morphology_code "C8971"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12412"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C8971 and Thesaurus:R101 some Thesaurus:C12412
+
+Class: 8070/3%3AC13 
+        Annotations: 
+            rdfs:label "8070/3/C13" 
+            ICD0TM:icdo_morphology_code "C2926"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12246"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2926 and Thesaurus:R101 some Thesaurus:C12246
+
+Class: 9679/3%3AC38 
+        Annotations: 
+            rdfs:label "9679/3/C38" 
+            ICD0TM:icdo_morphology_code "C9280"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12748"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C9280 and Thesaurus:R101 some Thesaurus:C12748
+
+Class: 9100/3%3AC559 
+        Annotations: 
+            rdfs:label "9100/3/C559" 
+            ICD0TM:icdo_morphology_code "C2948"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12405"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2948 and Thesaurus:R101 some Thesaurus:C12405
+
+Class: 8120/3%3AC670 
+        Annotations: 
+            rdfs:label "8120/3/C670" 
+            ICD0TM:icdo_morphology_code "C39851"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12414"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C39851 and Thesaurus:R101 some Thesaurus:C12414
+
+Class: 8140/3%3AC17 
+        Annotations: 
+            rdfs:label "8140/3/C17" 
+            ICD0TM:icdo_morphology_code "C27745"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12386"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C27745 and Thesaurus:R101 some Thesaurus:C12386
+
+Class: 8200/3%3AC07 
+        Annotations: 
+            rdfs:label "8200/3/C07" 
+            ICD0TM:icdo_morphology_code "C2970"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12427"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2970 and Thesaurus:R101 some Thesaurus:C12427
+
+Class: 8170/0%3AC22 
+        Annotations: 
+            rdfs:label "8170/0/C22" 
+            ICD0TM:icdo_morphology_code "C3758"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12392"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3758 and Thesaurus:R101 some Thesaurus:C12392
+
+Class: 9500/3%3AC76 
+        Annotations: 
+            rdfs:label "9500/3/C76" 
+            ICD0TM:icdo_morphology_code "C3270"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12666"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3270 and Thesaurus:R101 some Thesaurus:C12666
+
+Class: 8910/3%3AC762 
+        Annotations: 
+            rdfs:label "8910/3/C762" 
+            ICD0TM:icdo_morphology_code "C8971"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12664"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C8971 and Thesaurus:R101 some Thesaurus:C12664
+
+Class: 8140/3%3AC53 
+        Annotations: 
+            rdfs:label "8140/3/C53" 
+            ICD0TM:icdo_morphology_code "C27745"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12311"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C27745 and Thesaurus:R101 some Thesaurus:C12311
+
+Class: 8200/3%3AC33 
+        Annotations: 
+            rdfs:label "8200/3/C33" 
+            ICD0TM:icdo_morphology_code "C2970"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12428"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C2970 and Thesaurus:R101 some Thesaurus:C12428
+
+Class: 9421/1%3AC753 
+        Annotations: 
+            rdfs:label "9421/1/C753" 
+            ICD0TM:icdo_morphology_code "C4951"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12398"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C4951 and Thesaurus:R101 some Thesaurus:C12398
+
+Class: 8720/3%3AC510 
+        Annotations: 
+            rdfs:label "8720/3/C510" 
+            ICD0TM:icdo_morphology_code "C3510"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12407"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3510 and Thesaurus:R101 some Thesaurus:C12407
+
+Class: 8140/3%3AC23 
+        Annotations: 
+            rdfs:label "8140/3/C23" 
+            ICD0TM:icdo_morphology_code "C27745"^^xsd:string,
+            ICD0TM:icdo_topography_code "C12377"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C27745 and Thesaurus:R101 some Thesaurus:C12377
+
+Class: 8247/3%3AC000 
+        Annotations: 
+            rdfs:label "8247/3/C000" 
+            ICD0TM:icdo_morphology_code "C9231"^^xsd:string,
+            ICD0TM:icdo_topography_code "C87175"^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C9231 and Thesaurus:R101 some Thesaurus:C87175
