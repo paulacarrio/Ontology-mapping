@@ -186,26 +186,6 @@ with open('output.csv', 'w') as f:
         csvw.writerow([icdmcode, morph, morphCode, morphCodeLabel, icdtcode, top, topCode, topCodeLabel, Ncode, Nlabel])
 
 
-# Create an owl file to read with Protege
-ontologyfile = open("icdo-ncit.owl","w")
-
-# print the prefix declerations and ontology and object property
-ontologyfile.write("Prefix: Thesaurus: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>")
-ontologyfile.write("Prefix: ICD0TM: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>")
-ontologyfile.write("Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>")
-
-ontologyfile.write("Ontology: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>")
-
-ontologyfile.write("AnnotationProperty: ICD0TM:icdo_morphology_code\n\
-    Annotations: \n\
-	rdfs:label \"ICD-O-3 Code morphology\"^^xsd:string")
-
-ontologyfile.write("AnnotationProperty: ICD0TM:icdo_topography_code\n\
-    Annotations: \n\
-	rdfs:label \"ICD-O-3 Code topography\"^^xsd:string")
-
-ontologyfile.write("ObjectProperty: Thesaurus:R101")
-
 seenNcitM = {}
 seenNcitT = {}
 classexpressions = []
@@ -231,5 +211,26 @@ for entry in ICDO_M_T:
 
     classexpressions.append(getClassInMos(icdmcode, icdtcode, morphCode,topCode))
 
-print classexpressions
+        # Create an owl file to read with Protege
+    ontologyfile = open("icdo-ncit.owl","w")
+
+        # print the prefix declerations and ontology and object property
+    ontologyfile.write("Prefix: Thesaurus: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>")
+    ontologyfile.write("Prefix: ICD0TM: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>")
+    ontologyfile.write("Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>")
+
+    ontologyfile.write("Ontology: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>")
+    ontologyfile.write("AnnotationProperty: ICD0TM:icdo_morphology_code\n\
+        Annotations: \n\
+           rdfs:label \"ICD-O-3 Code morphology\"^^xsd:string")
+
+    ontologyfile.write("AnnotationProperty: ICD0TM:icdo_topography_code\n\
+       Annotations: \n\
+          rdfs:label \"ICD-O-3 Code topography\"^^xsd:string")
+
+    ontologyfile.write("ObjectProperty: Thesaurus:R101")
+
+    # Include variant part "annotations":
+    ontologyfile.write(getClassInMos(icdmcode, icdtcode, morphCode,topCode))
+
 ontologyfile.close()

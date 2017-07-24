@@ -1,0 +1,13 @@
+Prefix: Thesaurus: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>Prefix: ICD0TM: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>Ontology: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>AnnotationProperty: ICD0TM:icdo_morphology_code
+        Annotations: 
+           rdfs:label "ICD-O-3 Code morphology"^^xsd:stringAnnotationProperty: ICD0TM:icdo_topography_code
+       Annotations: 
+          rdfs:label "ICD-O-3 Code topography"^^xsd:stringObjectProperty: Thesaurus:R101
+Class: 9989/3%3AC42 
+        Annotations: 
+            rdfs:label "9989/3/C42" 
+            ICD0TM:icdo_morphology_code "C3247"^^xsd:string,
+            ICD0TM:icdo_topography_code ""^^xsd:string,
+                        
+        EquivalentTo: Thesaurus:C3247 and Thesaurus:R101 some Thesaurus:
+:
