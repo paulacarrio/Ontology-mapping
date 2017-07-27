@@ -7,7 +7,12 @@ import urllib
 
 # QUERING API OF ZOOMA. General request: http://www.ebi.ac.uk/spot/zooma/v2/api/services/annotate
 def getAnnotationFromZooma (value):
-    diagnose = {'propertyValue': value}
+
+    # no arraymap
+    diagnose = {'propertyValue': value, 'filter':'required:[cttv,eva-clinvar,atlas,uniprot,gwas]'}
+
+    # with arraymap
+    #diagnose = {'propertyValue': value, 'filter':'required:[arraymap,cttv,eva-clinvar,atlas,uniprot,gwas],preferred:[arraymap]'}
     r = requests.get('http://snarf.ebi.ac.uk:8580/spot/zooma/v2/api/services/annotate', params=diagnose)
     x = r.json()
     if len(x) == 0:
@@ -16,9 +21,9 @@ def getAnnotationFromZooma (value):
         return x[0];
 
 # QUERING API OF OXO
-def getMappingFromOxO (uri):
+def getMappingFromOxO (uri, distance):
     mapping = {}
-    identifier = {'ids': [(uri.rsplit('/',1)[1]).replace("_",":")], 'mappingTarget':['NCIt'], 'distance':2}
+    identifier = {'ids': [(uri.rsplit('/',1)[1]).replace("_",":")], 'mappingTarget':['NCIt'], 'distance':distance}
     a = requests.post('http://www.ebi.ac.uk/spot/oxo/api/search', data=identifier)
     y = a.json()
     #print json.dumps(y, indent=2) #JSON visualization
@@ -102,7 +107,9 @@ for entry in ICDO_M_T:
             else:
                 for uri in zoomaAnnotationICDOM['semanticTags']:
                     if uri not in idMapping:
-                        ncitCode = getMappingFromOxO(uri)
+                        ncitCode = getMappingFromOxO(uri, 1)
+                        if not ncitCode:
+                            ncitCode = getMappingFromOxO(uri, 2)
                         if ncitCode:
                             ICDO_M_T[entry]['morph_mapping'] = ncitCode
 
@@ -138,7 +145,10 @@ for entry in ICDO_M_T:
             else:
                 for uri in zoomaAnnotationICDOT['semanticTags']:
                     if uri not in idMapping:
-                        ncitCode = getMappingFromOxO(uri)
+                        ncitCode = getMappingFromOxO(uri, 1)
+                        if not ncitCode:
+                            # if not direct mappings, search for distance 2 mappings
+                            ncitCode = getMappingFromOxO(uri, 2)
                         if ncitCode:
                              ICDO_M_T[entry]['top_mapping'] = ncitCode
             if 'top_mapping' in ICDO_M_T[entry]:
@@ -152,11 +162,7 @@ for entry in ICDO_M_T:
 
 #CREATING A NEW ID ONTOLOGY FOR PAIRS OF ICD MORHPHOLOGY & TOPOGRAPHY
 def getClassInMos(morphId, topId, morphNcit, topNcit):
-    expression = "\nClass: {4} \n\
-    \n\
-Class: {5}\n\
-\n\
-Class: ICD0TM:{0} \n\
+    expression = "Class: ICD0TM:{0} \n\
 \n\
         Annotations: \n\
                 rdfs:label \"{1}\"^^xsd:string, \n\
@@ -207,6 +213,8 @@ for entry in ICDO_M_T:
     Nlabel = ICDO_M_T[entry]['Nlabel'].replace('"','')
     icdmcode = ICDO_M_T[entry]['icdmcode']
     icdtcode = ICDO_M_T[entry]['icdtcode']
+
+
     if morphCode and topCode:
         if morphCode not in seenNcitM:
             #print class decleration
@@ -215,29 +223,41 @@ for entry in ICDO_M_T:
             #print class decleration
             seenNcitT[topCode] = 1
 
-            classexpressions.append(getClassInMos(icdmcode, icdtcode, morphCode,topCode))
+        classexpressions.append(getClassInMos(icdmcode, icdtcode, morphCode,topCode))
 
-    # Create an OWL file to read with Protege
-    ontologyfile = open("icdo-ncit.owl","w")
-    for i in classexpressions:
-    # Include prefix declerations and ontology and object property
-        ontologyfile.write("Prefix: Thesaurus: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>\n")
-        ontologyfile.write("Prefix: ICD0TM: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>\n")
-        ontologyfile.write("Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n")
-        ontologyfile.write("\n")
-        ontologyfile.write("Ontology: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>\n")
-        ontologyfile.write("\n")
-        ontologyfile.write("AnnotationProperty: ICD0TM:icdo_morphology_code\n\
+# Create an OWL file to read with Protege
+ontologyfile = open("icdo-ncit.owl","w")
+# Include prefix declerations and ontology and object property
+ontologyfile.write("Prefix: Thesaurus: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>\n")
+ontologyfile.write("Prefix: ICD0TM: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>\n")
+ontologyfile.write("Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n")
+ontologyfile.write("\n")
+ontologyfile.write("Ontology: <http://arraymap.org/ontology/icdo-tm-ncit.owl#>\n")
+ontologyfile.write("\n")
+ontologyfile.write("AnnotationProperty: ICD0TM:icdo_morphology_code\n\
     Annotations: \n\
-        rdfs:label \"ICD-O-3 Code morphology\"^^xsd:string")
-        ontologyfile.write("\n")
-        ontologyfile.write("AnnotationProperty: ICD0TM:icdo_topography_code\n\
+       rdfs:label \"ICD-O-3 Code morphology\"^^xsd:string")
+ontologyfile.write("\n")
+ontologyfile.write("AnnotationProperty: ICD0TM:icdo_topography_code\n\
     Annotations: \n\
-        rdfs:label \"ICD-O-3 Code topography\"^^xsd:string\n")
-        ontologyfile.write("\n")
-        ontologyfile.write("ObjectProperty: Thesaurus:R101\n")
+       rdfs:label \"ICD-O-3 Code topography\"^^xsd:string\n")
+ontologyfile.write("\n")
+ontologyfile.write("ObjectProperty: Thesaurus:R101\n")
+ontologyfile.write("\n")
+
+for morphCode in seenNcitM:
+    ontologyfile.write("Class: Thesaurus:"+morphCode )
+    ontologyfile.write("\n")
+
+for topCode in seenNcitT:
+    ontologyfile.write("Class: Thesaurus:"+topCode )
+    ontologyfile.write("\n")
+
+
+for i in classexpressions:
+    ontologyfile.write("\n")
 
     # Include variant part "annotations":
-        ontologyfile.write(i)
+    ontologyfile.write(i)
 
 ontologyfile.close()
