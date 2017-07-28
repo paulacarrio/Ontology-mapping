@@ -1,104 +1,271 @@
 PROPERTY_TYPE,PROPERTY_VALUE,SEMANTIC_TAG,STUDY,BIOENTITY,ANNOTATOR,ANNOTATION_DATE
-morphology,Oligodendroglioma anaplastic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4326,,,Paula Carrio,21/07/2017 10:00
-morphology,Desmoplastic mesothelioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6747,,,Paula Carrio,21/07/2017 10:00
-morphology,Plasma cell myeloma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3242,,,Paula Carrio,21/07/2017 10:00
-morphology,Squamous cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2926,,,Paula Carrio,21/07/2017 10:00
-morphology,Endometrioid adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3769,,,Paula Carrio,21/07/2017 10:00
-morphology,Squamous cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2926,,,Paula Carrio,21/07/2017 10:00
-morphology,Sarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9118,,,Paula Carrio,21/07/2017 10:00
-morphology,Adenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4196,,,Paula Carrio,21/07/2017 10:00
-morphology,Pituitary carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4536,,,Paula Carrio,21/07/2017 10:00
-morphology,Ductal carcinoma in situ,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3641,,,Paula Carrio,21/07/2017 10:00
-morphology,Adenoid cystic carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2970,,,Paula Carrio,21/07/2017 10:00
-morphology,Chordoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2947,,,Paula Carrio,21/07/2017 10:00
-morphology,Adenoid cystic carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2970,,,Paula Carrio,21/07/2017 10:00
-morphology,Leiomyosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3158,,,Paula Carrio,21/07/2017 10:00
-morphology,Adenoid cystic carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2970,,,Paula Carrio,21/07/2017 10:00
-morphology,Bronchiolo-alveolar adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2923,,,Paula Carrio,21/07/2017 10:00
-morphology,Malignant melanoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3510,,,Paula Carrio,21/07/2017 10:00
-morphology,Ewing sarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4817,,,Paula Carrio,21/07/2017 10:00
-morphology,Oligodendroglioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6960,,,Paula Carrio,21/07/2017 10:00
-morphology,Squamous cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2926,,,Paula Carrio,21/07/2017 10:00
-morphology,Adenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4196,,,Paula Carrio,21/07/2017 10:00
-morphology,Mucinous cystadenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2973,,,Paula Carrio,21/07/2017 10:00
-morphology,Astrocytoma anaplastic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9477,,,Paula Carrio,21/07/2017 10:00
-morphology,Neurofibroma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3272,,,Paula Carrio,21/07/2017 10:00
-morphology,Ependymoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3017,,,Paula Carrio,21/07/2017 10:00
-morphology,Adrenal cortical carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9325,,,Paula Carrio,21/07/2017 10:00
-morphology,Ependymoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3017,,,Paula Carrio,21/07/2017 10:00
-morphology,Squamous cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2926,,,Paula Carrio,21/07/2017 10:00
-morphology,Squamous cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2926,,,Paula Carrio,21/07/2017 10:00
-morphology,Precursor B-cell lymphoblastic lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3167,,,Paula Carrio,21/07/2017 10:00
-morphology,Astrocytoma anaplastic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9477,,,Paula Carrio,21/07/2017 10:00
-morphology,Glioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4627,,,Paula Carrio,21/07/2017 10:00
-morphology,Primary effusion lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6915,,,Paula Carrio,21/07/2017 10:00
-morphology,Transitional cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39851,,,Paula Carrio,21/07/2017 10:00
-morphology,Embryonal rhabdomyosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8971,,,Paula Carrio,21/07/2017 10:00
-morphology,Squamous cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2926,,,Paula Carrio,21/07/2017 10:00
-morphology,Carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3709,,,Paula Carrio,21/07/2017 10:00
-morphology,Squamous cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2926,,,Paula Carrio,21/07/2017 10:00
-morphology,Seminoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7328,,,Paula Carrio,21/07/2017 10:00
-morphology,Mediastinal large B-cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9280,,,Paula Carrio,21/07/2017 10:00
-morphology,Choriocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2948,,,Paula Carrio,21/07/2017 10:00
-morphology,Meningioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3230,,,Paula Carrio,21/07/2017 10:00
-morphology,Malignant peripheral nerve sheath tumor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3798,,,Paula Carrio,21/07/2017 10:00
-morphology,Bile duct cystadenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4130,,,Paula Carrio,21/07/2017 10:00
-morphology,Chondrosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2946,,,Paula Carrio,21/07/2017 10:00
-morphology,Adenoid cystic carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2970,,,Paula Carrio,21/07/2017 10:00
-morphology,Adenoid cystic carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2970,,,Paula Carrio,21/07/2017 10:00
-morphology,Neuroblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3270,,,Paula Carrio,21/07/2017 10:00
-morphology,Embryonal rhabdomyosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8971,,,Paula Carrio,21/07/2017 10:00
-morphology,Cholangiocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8265,,,Paula Carrio,21/07/2017 10:00
-morphology,Adenoid cystic carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2970,,,Paula Carrio,21/07/2017 10:00
-morphology,Pilocytic astrocytoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4951,,,Paula Carrio,21/07/2017 10:00
-morphology,Merkel cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9231,,,Paula Carrio,21/07/2017 10:00
-topography,thyroid gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12400,,,Paula Carrio,21/07/2017 10:00
-topography,Brain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12439,,,Paula Carrio,21/07/2017 10:00
-topography,corpus uteri,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12316,,,Paula Carrio,21/07/2017 10:00
-topography,skin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12470,,,Paula Carrio,21/07/2017 10:00
-topography,salivary gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12426,,,Paula Carrio,21/07/2017 10:00
-topography,fallopian tube,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12403,,,Paula Carrio,21/07/2017 10:00
-topography,spleen,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12432,,,Paula Carrio,21/07/2017 10:00
-topography,cervix uteri,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12311,,,Paula Carrio,21/07/2017 10:00
-topography,pituitary gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12399,,,Paula Carrio,21/07/2017 10:00
-topography,breast,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12971,,,Paula Carrio,21/07/2017 10:00
-topography,larynx,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12420,,,Paula Carrio,21/07/2017 10:00
-topography,bone,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13076,,,Paula Carrio,21/07/2017 10:00
-topography,small intestine,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12386,,,Paula Carrio,21/07/2017 10:00
-topography,Oropharynx,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12762,,,Paula Carrio,21/07/2017 10:00
-topography,kidney,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12415,,,Paula Carrio,21/07/2017 10:00
-topography,middle and inner ear,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12499,,,Paula Carrio,21/07/2017 10:00
-topography,retina,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12343,,,Paula Carrio,21/07/2017 10:00
-topography,pancreas,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12393,,,Paula Carrio,21/07/2017 10:00
-topography,tongue,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12422,,,Paula Carrio,21/07/2017 10:00
-topography,rectum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12390,,,Paula Carrio,21/07/2017 10:00
-topography,ovary,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12404,,,Paula Carrio,21/07/2017 10:00
-topography,cecum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12381,,,Paula Carrio,21/07/2017 10:00
-topography,brain stem,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12441,,,Paula Carrio,21/07/2017 10:00
-topography,tonsil,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12802,,,Paula Carrio,21/07/2017 10:00
-topography,Nervous system,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12755,,,Paula Carrio,21/07/2017 10:00
-topography,stomach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12391,,,Paula Carrio,21/07/2017 10:00
-topography,urinary bladder,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12414,,,Paula Carrio,21/07/2017 10:00
-topography,Spinal cord,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12464,,,Paula Carrio,21/07/2017 10:00
-topography,adrenal cortex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12396,,,Paula Carrio,21/07/2017 10:00
-topography,cerebellum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12445,,,Paula Carrio,21/07/2017 10:00
-topography,floor of mouth,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C102349,,,Paula Carrio,21/07/2017 10:00
-topography,lymph nodes,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12745,,,Paula Carrio,21/07/2017 10:00
-topography,testis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12412,,,Paula Carrio,21/07/2017 10:00
-topography,ventricle,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12730,,,Paula Carrio,21/07/2017 10:00
-topography,pleura,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12469,,,Paula Carrio,21/07/2017 10:00
-topography,prostate gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12410,,,Paula Carrio,21/07/2017 10:00
-topography,nasopharynx,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12423,,,Paula Carrio,21/07/2017 10:00
-topography,esophagus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12389,,,Paula Carrio,21/07/2017 10:00
-topography,hypopharynx,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12246,,,Paula Carrio,21/07/2017 10:00
-topography,mediastinum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12748,,,Paula Carrio,21/07/2017 10:00
-topography,vagina and labia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12407,,,Paula Carrio,21/07/2017 10:00
-topography,liver,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12392,,,Paula Carrio,21/07/2017 10:00
-topography,adrenal glands,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12666,,,Paula Carrio,21/07/2017 10:00
-topography,parotid gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12427,,,Paula Carrio,21/07/2017 10:00
-topography,adrenal gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12666,,,Paula Carrio,21/07/2017 10:00
-topography,abdomen,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12664,,,Paula Carrio,21/07/2017 10:00
-topography,trachea,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12428,,,Paula Carrio,21/07/2017 10:00
-topography,pineal gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12398,,,Paula Carrio,21/07/2017 10:00
-topography,gallbladder,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12377,,,Paula Carrio,21/07/2017 10:00
-topography,fallopian tube,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12403,,,Paula Carrio,21/07/2017 10:00
+topography,unknown,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17998,,,Paula Carrio,28/07/2017 12:00
+topography,lymph nodes,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12745,,,Paula Carrio,28/07/2017 12:00
+topography,adrenal gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12666,,,Paula Carrio,28/07/2017 12:00
+topography,pineal gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12398,,,Paula Carrio,28/07/2017 12:00
+topography,pituitary gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12399,,,Paula Carrio,28/07/2017 12:00
+topography,adrenal cortex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12396,,,Paula Carrio,28/07/2017 12:00
+topography,thyroid gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12400,,,Paula Carrio,28/07/2017 12:00
+topography,Nervous system,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12755,,,Paula Carrio,28/07/2017 12:00
+topography,Spinal cord,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12464,,,Paula Carrio,28/07/2017 12:00
+topography,Brain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12439,,,Paula Carrio,28/07/2017 12:00
+topography,brain stem,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12441,,,Paula Carrio,28/07/2017 12:00
+topography,cerebellum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12445,,,Paula Carrio,28/07/2017 12:00
+topography,ventricle,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12730,,,Paula Carrio,28/07/2017 12:00
+topography,retina,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12343,,,Paula Carrio,28/07/2017 12:00
+topography,urinary bladder,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12414,,,Paula Carrio,28/07/2017 12:00
+topography,kidney,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12415,,,Paula Carrio,28/07/2017 12:00
+topography,testis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12412,,,Paula Carrio,28/07/2017 12:00
+topography,prostate gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12410,,,Paula Carrio,28/07/2017 12:00
+topography,fallopian tube,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12403,,,Paula Carrio,28/07/2017 12:00
+topography,ovary,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12404,,,Paula Carrio,28/07/2017 12:00
+topography,uterus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12405,,,Paula Carrio,28/07/2017 12:00
+topography,corpus uteri,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12316,,,Paula Carrio,28/07/2017 12:00
+topography,cervix uteri,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12311,,,Paula Carrio,28/07/2017 12:00
+topography,breast,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12971,,,Paula Carrio,28/07/2017 12:00
+topography,connective and soft tissue,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12964,,,Paula Carrio,28/07/2017 12:00
+topography,skin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12470,,,Paula Carrio,28/07/2017 12:00
+topography,spleen,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12432,,,Paula Carrio,28/07/2017 12:00
+topography,bone,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13076,,,Paula Carrio,28/07/2017 12:00
+topography,pleura,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12469,,,Paula Carrio,28/07/2017 12:00
+topography,mediastinum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12748,,,Paula Carrio,28/07/2017 12:00
+topography,larynx,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12420,,,Paula Carrio,28/07/2017 12:00
+topography,pancreas,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12393,,,Paula Carrio,28/07/2017 12:00
+topography,liver,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12392,,,Paula Carrio,28/07/2017 12:00
+topography,rectum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12390,,,Paula Carrio,28/07/2017 12:00
+topography,small intestine,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12386,,,Paula Carrio,28/07/2017 12:00
+topography,stomach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12391,,,Paula Carrio,28/07/2017 12:00
+topography,esophagus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12389,,,Paula Carrio,28/07/2017 12:00
+topography,pharynx,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12425,,,Paula Carrio,28/07/2017 12:00
+topography,nasopharynx,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12423,,,Paula Carrio,28/07/2017 12:00
+topography,tonsil,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12802,,,Paula Carrio,28/07/2017 12:00
+topography,salivary gland,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12426,,,Paula Carrio,28/07/2017 12:00
+topography,mouth,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12421,,,Paula Carrio,28/07/2017 12:00
+morphology,Carcinoma anaplastic type,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3692,,,Paula Carrio,28/07/2017 12:00
+morphology,Oligodendroglioma anaplastic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4326,,,Paula Carrio,28/07/2017 12:00
+morphology,Desmoplastic mesothelioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6747,,,Paula Carrio,28/07/2017 12:00
+morphology,Plasma cell myeloma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3242,,,Paula Carrio,28/07/2017 12:00
+morphology,Squamous cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2929,,,Paula Carrio,28/07/2017 12:00
+morphology,Endometrioid adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3769,,,Paula Carrio,28/07/2017 12:00
+morphology,Mucoepidermoid carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3772,,,Paula Carrio,28/07/2017 12:00
+morphology,Diffuse large B-cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8851,,,Paula Carrio,28/07/2017 12:00
+morphology,Sarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9118,,,Paula Carrio,28/07/2017 12:00
+morphology,Serous adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40101,,,Paula Carrio,28/07/2017 12:00
+morphology,splenic marginal zone lymphoma nos,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4663,,,Paula Carrio,28/07/2017 12:00
+morphology,Squamous intraepithelial neoplasia grade III,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27093,,,Paula Carrio,28/07/2017 12:00
+morphology,Adenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2855,,,Paula Carrio,28/07/2017 12:00
+morphology,Pituitary carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4536,,,Paula Carrio,28/07/2017 12:00
+morphology,Ductal carcinoma in situ,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2924,,,Paula Carrio,28/07/2017 12:00
+morphology,Adenoid cystic carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2970,,,Paula Carrio,28/07/2017 12:00
+morphology,Chordoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2947,,,Paula Carrio,28/07/2017 12:00
+morphology,Enteropathy type T-cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4737,,,Paula Carrio,28/07/2017 12:00
+morphology,Follicular lymphoma grade 3,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3460,,,Paula Carrio,28/07/2017 12:00
+morphology,Chronic myeloid leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3177,,,Paula Carrio,28/07/2017 12:00
+morphology,Liposarcoma myxoid,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27781,,,Paula Carrio,28/07/2017 12:00
+morphology,Teratoma malignant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3403,,,Paula Carrio,28/07/2017 12:00
+morphology,Inflammatory carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4001,,,Paula Carrio,28/07/2017 12:00
+morphology,Adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2852,,,Paula Carrio,28/07/2017 12:00
+morphology,Leiomyosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3158,,,Paula Carrio,28/07/2017 12:00
+morphology,Bronchiolo-alveolar adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2923,,,Paula Carrio,28/07/2017 12:00
+morphology,Malignant melanoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3510,,,Paula Carrio,28/07/2017 12:00
+morphology,Hepatosplenic gamma/delta T-cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8459,,,Paula Carrio,28/07/2017 12:00
+morphology,Monoclonal gammopathy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35548,,,Paula Carrio,28/07/2017 12:00
+morphology,Ewing sarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4817,,,Paula Carrio,28/07/2017 12:00
+morphology,Oligodendroglioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3288,,,Paula Carrio,28/07/2017 12:00
+morphology,Primary myelofibrosis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2862,,,Paula Carrio,28/07/2017 12:00
+morphology,Premalignant squamous epithelium,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12848,,,Paula Carrio,28/07/2017 12:00
+morphology,Mucinous cystadenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2973,,,Paula Carrio,28/07/2017 12:00
+morphology,Astrocytoma anaplastic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9477,,,Paula Carrio,28/07/2017 12:00
+morphology,Oligoastrocytoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4050,,,Paula Carrio,28/07/2017 12:00
+morphology,Pilocytic astrocytoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4047,,,Paula Carrio,28/07/2017 12:00
+morphology,Carcinoma anaplastic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3692,,,Paula Carrio,28/07/2017 12:00
+morphology,Nodular melanoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4225,,,Paula Carrio,28/07/2017 12:00
+morphology,Neurofibroma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3272,,,Paula Carrio,28/07/2017 12:00
+morphology,Fetal adenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4160,,,Paula Carrio,28/07/2017 12:00
+morphology,Carcinoma diffuse type,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4127,,,Paula Carrio,28/07/2017 12:00
+morphology,Superficial spreading melanoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9152,,,Paula Carrio,28/07/2017 12:00
+morphology,Papillary transitional cell neoplasm of low malignant potential,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27884,,,Paula Carrio,28/07/2017 12:00
+morphology,Ependymoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3017,,,Paula Carrio,28/07/2017 12:00
+morphology,Adrenal cortical carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9325,,,Paula Carrio,28/07/2017 12:00
+morphology,Follicular adenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3502,,,Paula Carrio,28/07/2017 12:00
+morphology,Acute lymphoblastic leukemia mature B-cell type,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8644,,,Paula Carrio,28/07/2017 12:00
+morphology,Angiosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3088,,,Paula Carrio,28/07/2017 12:00
+morphology,Chondrosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2946,,,Paula Carrio,28/07/2017 12:00
+morphology,Squamous cell carcinoma in situ,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27093,,,Paula Carrio,28/07/2017 12:00
+morphology,Embryonal carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3752,,,Paula Carrio,28/07/2017 12:00
+morphology,Carcinoma undifferentiated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3692,,,Paula Carrio,28/07/2017 12:00
+morphology,Yolk sac tumor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3011,,,Paula Carrio,28/07/2017 12:00
+morphology,Precursor B-cell lymphoblastic lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3167,,,Paula Carrio,28/07/2017 12:00
+morphology,Hodgkin lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9357,,,Paula Carrio,28/07/2017 12:00
+morphology,Chronic myeloproliferative disease,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4345,,,Paula Carrio,28/07/2017 12:00
+morphology,Primary cutaneous peripheral T-cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45332,,,Paula Carrio,28/07/2017 12:00
+morphology,Large cell / Anaplastic medulloblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129436,,,Paula Carrio,28/07/2017 12:00
+morphology,Germ cell tumor nonseminomatous,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9313,,,Paula Carrio,28/07/2017 12:00
+morphology,Mucinous adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26712,,,Paula Carrio,28/07/2017 12:00
+morphology,Bronchiolo-alveolar carcinoma indeterminate type,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2923,,,Paula Carrio,28/07/2017 12:00
+morphology,Glioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3059,,,Paula Carrio,28/07/2017 12:00
+morphology,Intraductal papillary-mucinous carcinoma invasive,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5726,,,Paula Carrio,28/07/2017 12:00
+morphology,Leiomyoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3157,,,Paula Carrio,28/07/2017 12:00
+morphology,Fibrosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3043,,,Paula Carrio,28/07/2017 12:00
+morphology,Gastrointestinal stromal tumor uncertain malignant potential,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3868,,,Paula Carrio,28/07/2017 12:00
+morphology,Mesothelioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3234,,,Paula Carrio,28/07/2017 12:00
+morphology,Large cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4450,,,Paula Carrio,28/07/2017 12:00
+morphology,Glioblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3058,,,Paula Carrio,28/07/2017 12:00
+morphology,atypical adenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7559,,,Paula Carrio,28/07/2017 12:00
+morphology,Nephroblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3267,,,Paula Carrio,28/07/2017 12:00
+morphology,Osteosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9145,,,Paula Carrio,28/07/2017 12:00
+morphology,Acute promyelocytic leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3182,,,Paula Carrio,28/07/2017 12:00
+morphology,Mantle cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4337,,,Paula Carrio,28/07/2017 12:00
+morphology,Refractory anemia with ringed sideroblasts,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4036,,,Paula Carrio,28/07/2017 12:00
+morphology,Lobular carcinoma in situ,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4018,,,Paula Carrio,28/07/2017 12:00
+morphology,Carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2916,,,Paula Carrio,28/07/2017 12:00
+morphology,Primary effusion lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6915,,,Paula Carrio,28/07/2017 12:00
+morphology,Transitional cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39851,,,Paula Carrio,28/07/2017 12:00
+morphology,B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3163,,,Paula Carrio,28/07/2017 12:00
+morphology,Fibroblastic osteosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4020,,,Paula Carrio,28/07/2017 12:00
+morphology,Prolymphocytic leukemia T-cell type,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4752,,,Paula Carrio,28/07/2017 12:00
+morphology,Precursor T-cell lymphoblastic leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7055,,,Paula Carrio,28/07/2017 12:00
+morphology,Embryonal rhabdomyosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8971,,,Paula Carrio,28/07/2017 12:00
+morphology,Adenocarcinoma in situ,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4123,,,Paula Carrio,28/07/2017 12:00
+morphology,Precursor B-cell lymphoblastic leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8936,,,Paula Carrio,28/07/2017 12:00
+morphology,Adenocarcinoma intestinal type,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9157,,,Paula Carrio,28/07/2017 12:00
+morphology,Acute megakaryoblastic leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3170,,,Paula Carrio,28/07/2017 12:00
+morphology,Invasive micropapillary carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36084,,,Paula Carrio,28/07/2017 12:00
+morphology,Astrocytoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4047,,,Paula Carrio,28/07/2017 12:00
+morphology,Acute mixed lineage leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82179,,,Paula Carrio,28/07/2017 12:00
+morphology,Giant cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3779,,,Paula Carrio,28/07/2017 12:00
+morphology,Acute myeloblastic leukemia with maturation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3250,,,Paula Carrio,28/07/2017 12:00
+morphology,Papillary adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2853,,,Paula Carrio,28/07/2017 12:00
+morphology,Intraductal papillary-mucinous tumor with moderate dysplasia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5719,,,Paula Carrio,28/07/2017 12:00
+morphology,Retinoblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7541,,,Paula Carrio,28/07/2017 12:00
+morphology,Anaplastic large cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3720,,,Paula Carrio,28/07/2017 12:00
+morphology,Chondroblastic osteosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4021,,,Paula Carrio,28/07/2017 12:00
+morphology,Small cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7982,,,Paula Carrio,28/07/2017 12:00
+morphology,Fibrous histiocytoma malignant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4247,,,Paula Carrio,28/07/2017 12:00
+morphology,Paget disease and inflitrating duct carcinoma of breast,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7951,,,Paula Carrio,28/07/2017 12:00
+morphology,B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1),http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80334,,,Paula Carrio,28/07/2017 12:00
+morphology,Liposarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3194,,,Paula Carrio,28/07/2017 12:00
+morphology,Epithelioid and spindle cell nevus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27007,,,Paula Carrio,28/07/2017 12:00
+morphology,Burkitt lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7400,,,Paula Carrio,28/07/2017 12:00
+morphology,Anaplastic large cell lymphoma cutaneous type,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3720,,,Paula Carrio,28/07/2017 12:00
+morphology,Gastrointestinal stromal tumor malignant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53999,,,Paula Carrio,28/07/2017 12:00
+morphology,Myoepithelioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40392,,,Paula Carrio,28/07/2017 12:00
+morphology,Granular cell tumor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3474,,,Paula Carrio,28/07/2017 12:00
+morphology,paraganglioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3308,,,Paula Carrio,28/07/2017 12:00
+morphology,Sezary syndrome,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3366,,,Paula Carrio,28/07/2017 12:00
+morphology,Intraductal papillary adenocarcinoma with invasion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7439,,,Paula Carrio,28/07/2017 12:00
+morphology,Islet cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3770,,,Paula Carrio,28/07/2017 12:00
+morphology,Refractory cytopenia with multilineage dysplasia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8574,,,Paula Carrio,28/07/2017 12:00
+morphology,Non-small cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2926,,,Paula Carrio,28/07/2017 12:00
+morphology,Atypical teratoid/rhabdoid tumor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6906,,,Paula Carrio,28/07/2017 12:00
+morphology,Fetal adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45509,,,Paula Carrio,28/07/2017 12:00
+morphology,Seminoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7328,,,Paula Carrio,28/07/2017 12:00
+morphology,Gliosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3796,,,Paula Carrio,28/07/2017 12:00
+morphology,Primitive neuroectodermal tumor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3716,,,Paula Carrio,28/07/2017 12:00
+morphology,Waldenstrom macroglobulinemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3212,,,Paula Carrio,28/07/2017 12:00
+morphology,Malignant lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7400,,,Paula Carrio,28/07/2017 12:00
+morphology,Mediastinal large B-cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9280,,,Paula Carrio,28/07/2017 12:00
+morphology,Choriocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2948,,,Paula Carrio,28/07/2017 12:00
+morphology,Endometrioid adenocarcinoma secretory variant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27839,,,Paula Carrio,28/07/2017 12:00
+morphology,Teratocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3756,,,Paula Carrio,28/07/2017 12:00
+morphology,Synovial sarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3400,,,Paula Carrio,28/07/2017 12:00
+morphology,Papillary serous cystadenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8377,,,Paula Carrio,28/07/2017 12:00
+morphology,Myxofibrosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6496,,,Paula Carrio,28/07/2017 12:00
+morphology,Meningioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3230,,,Paula Carrio,28/07/2017 12:00
+morphology,Acute myeloid leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3171,,,Paula Carrio,28/07/2017 12:00
+morphology,Alveolar rhabdomyosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3749,,,Paula Carrio,28/07/2017 12:00
+morphology,Malignant peripheral nerve sheath tumor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3798,,,Paula Carrio,28/07/2017 12:00
+morphology,Squamous cell keratosis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4105,,,Paula Carrio,28/07/2017 12:00
+morphology,Multiple myeloma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3242,,,Paula Carrio,28/07/2017 12:00
+morphology,pleuropulmonary blastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5669,,,Paula Carrio,28/07/2017 12:00
+morphology,Adenosquamous carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9133,,,Paula Carrio,28/07/2017 12:00
+morphology,Angioimmunoblastic T-cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7528,,,Paula Carrio,28/07/2017 12:00
+morphology,carcinoid tumor nos,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2915,,,Paula Carrio,28/07/2017 12:00
+morphology,Olfactory neuroblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3789,,,Paula Carrio,28/07/2017 12:00
+morphology,Squamous cell carcinoma large cell nonkeratinizing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65173,,,Paula Carrio,28/07/2017 12:00
+morphology,Acinar cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3768,,,Paula Carrio,28/07/2017 12:00
+morphology,Hemangioendothelioma malignant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3084,,,Paula Carrio,28/07/2017 12:00
+morphology,Malignant lymphoma lymphoplasmacytic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3212,,,Paula Carrio,28/07/2017 12:00
+morphology,Medulloblastoma with extensive nodularity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5407,,,Paula Carrio,28/07/2017 12:00
+morphology,Papilloma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7440,,,Paula Carrio,28/07/2017 12:00
+morphology,Bile duct cystadenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4130,,,Paula Carrio,28/07/2017 12:00
+morphology,Plasma cell leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4665,,,Paula Carrio,28/07/2017 12:00
+morphology,Osteosarcoma telangiectatic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3902,,,Paula Carrio,28/07/2017 12:00
+morphology,Renal cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9385,,,Paula Carrio,28/07/2017 12:00
+morphology,Undifferentiated sarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27096,,,Paula Carrio,28/07/2017 12:00
+morphology,Clear cell adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3766,,,Paula Carrio,28/07/2017 12:00
+morphology,Follicular carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8054,,,Paula Carrio,28/07/2017 12:00
+morphology,Pleomorphic xanthoastrocytoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4323,,,Paula Carrio,28/07/2017 12:00
+morphology,mature t-cell lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3468,,,Paula Carrio,28/07/2017 12:00
+morphology,Rhabdoid tumor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3808,,,Paula Carrio,28/07/2017 12:00
+morphology,Adult T-cell leukemia/lymphoma [HTLV1 pos.],http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3184,,,Paula Carrio,28/07/2017 12:00
+morphology,Chondroma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53459,,,Paula Carrio,28/07/2017 12:00
+morphology,Leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3161,,,Paula Carrio,28/07/2017 12:00
+morphology,Neuroepithelioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3716,,,Paula Carrio,28/07/2017 12:00
+morphology,Hypereosinophilic syndrome,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27038,,,Paula Carrio,28/07/2017 12:00
+morphology,Desmoplastic fibroma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3740,,,Paula Carrio,28/07/2017 12:00
+morphology,Merkel cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9231,,,Paula Carrio,28/07/2017 12:00
+morphology,Alveolar soft part sarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3750,,,Paula Carrio,28/07/2017 12:00
+morphology,Epitheloid mesothelioma malignant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7985,,,Paula Carrio,28/07/2017 12:00
+morphology,Chronic myelomonocytic leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3178,,,Paula Carrio,28/07/2017 12:00
+morphology,Phyllodes tumor malignant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4504,,,Paula Carrio,28/07/2017 12:00
+morphology,Hepatocellular adenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3758,,,Paula Carrio,28/07/2017 12:00
+morphology,Oncocytoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3759,,,Paula Carrio,28/07/2017 12:00
+morphology,Follicular lymphoma grade 2,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8968,,,Paula Carrio,28/07/2017 12:00
+morphology,Acute lymphoblastic leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3167,,,Paula Carrio,28/07/2017 12:00
+morphology,Synovial sarcoma biphasic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4279,,,Paula Carrio,28/07/2017 12:00
+morphology,Metaplastic carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5164,,,Paula Carrio,28/07/2017 12:00
+morphology,Cholangiocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4436,,,Paula Carrio,28/07/2017 12:00
+morphology,Liposarcoma pleomorphic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3705,,,Paula Carrio,28/07/2017 12:00
+morphology,Polycythemia vera,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3336,,,Paula Carrio,28/07/2017 12:00
+morphology,Acute leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9300,,,Paula Carrio,28/07/2017 12:00
+morphology,Neuroblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3270,,,Paula Carrio,28/07/2017 12:00
+morphology,Liposarcoma dedifferentiated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3704,,,Paula Carrio,28/07/2017 12:00
+morphology,Follicular lymphoma grade 1,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3465,,,Paula Carrio,28/07/2017 12:00
+morphology,Acute monoblastic leukemia [FAB M5],http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7171,,,Paula Carrio,28/07/2017 12:00
+morphology,Astroblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4324,,,Paula Carrio,28/07/2017 12:00
+morphology,Tubular adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5473,,,Paula Carrio,28/07/2017 12:00
+morphology,Infiltrating duct and lobular carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6393,,,Paula Carrio,28/07/2017 12:00
+morphology,Signet ring cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3774,,,Paula Carrio,28/07/2017 12:00
+morphology,Apocrine adenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4202,,,Paula Carrio,28/07/2017 12:00
+morphology,Precursor T-cell lymphoblastic lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7055,,,Paula Carrio,28/07/2017 12:00
+morphology,Dendritic cell sarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27260,,,Paula Carrio,28/07/2017 12:00
+morphology,Pigmented dermatofibrosarcoma protuberans,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9430,,,Paula Carrio,28/07/2017 12:00
+morphology,Giant cell sarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66759,,,Paula Carrio,28/07/2017 12:00
+morphology,Monocytic leukemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4861,,,Paula Carrio,28/07/2017 12:00
+morphology,Papillary transitional cell carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4122,,,Paula Carrio,28/07/2017 12:00
+morphology,Atypical chronic myeloid leukemia BCR/ABL negative,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3519,,,Paula Carrio,28/07/2017 12:00
+morphology,Hemangioma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3085,,,Paula Carrio,28/07/2017 12:00
+morphology,Myelodysplastic syndrome with 5q- syndrome,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6867,,,Paula Carrio,28/07/2017 12:00
+morphology,Intraductal papillary-mucinous carcinoma non-invasive,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41251,,,Paula Carrio,28/07/2017 12:00
+morphology,Myoepithelial carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7596,,,Paula Carrio,28/07/2017 12:00
+morphology,Amelanotic melanoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3802,,,Paula Carrio,28/07/2017 12:00
+morphology,germinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3753,,,Paula Carrio,28/07/2017 12:00
+morphology,Mycosis fungoides,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3246,,,Paula Carrio,28/07/2017 12:00
+morphology,Rhabdomyosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3359,,,Paula Carrio,28/07/2017 12:00
+morphology,Composite Hodgkin and Non-Hodgkin lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38661,,,Paula Carrio,28/07/2017 12:00
+morphology,Synovial sarcoma monophasic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6534,,,Paula Carrio,28/07/2017 12:00
+morphology,Schwannoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3269,,,Paula Carrio,28/07/2017 12:00
+morphology,Lobular carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7950,,,Paula Carrio,28/07/2017 12:00
+morphology,Refractory anemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2872,,,Paula Carrio,28/07/2017 12:00
+morphology,Renal cell carcinoma chromophobe,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4146,,,Paula Carrio,28/07/2017 12:00
+morphology,Mesothelioma biphasic malignant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4282,,,Paula Carrio,28/07/2017 12:00
+morphology,Carcinosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42700,,,Paula Carrio,28/07/2017 12:00
+morphology,Essential thrombocythemia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3407,,,Paula Carrio,28/07/2017 12:00
+morphology,Neuroendocrine carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6875,,,Paula Carrio,28/07/2017 12:00
+morphology,oncocytoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3759,,,Paula Carrio,28/07/2017 12:00
+morphology,Adrenal cortical adenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9003,,,Paula Carrio,28/07/2017 12:00
+morphology,Infiltrating duct carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4194,,,Paula Carrio,28/07/2017 12:00
+morphology,Inflammatory myofibroblastic tumor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6481,,,Paula Carrio,28/07/2017 12:00
+morphology,Refractory anemia with excess blasts [RAEB],http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7506,,,Paula Carrio,28/07/2017 12:00
+morphology,Follicular lymphoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3209,,,Paula Carrio,28/07/2017 12:00
+morphology,Sarcomatoid carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27004,,,Paula Carrio,28/07/2017 12:00
+morphology,prostatic intraepithelial neoplasia grade III,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3642,,,Paula Carrio,28/07/2017 12:00
+morphology,Mucinous cystadenoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2973,,,Paula Carrio,28/07/2017 12:00
+morphology,Pineoblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9344,,,Paula Carrio,28/07/2017 12:00
+morphology,Neoplasm malignant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9305,,,Paula Carrio,28/07/2017 12:00
+morphology,Hepatocellular carcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3099,,,Paula Carrio,28/07/2017 12:00
+morphology,Fibrous histiocytoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3739,,,Paula Carrio,28/07/2017 12:00
+morphology,Medulloblastoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3222,,,Paula Carrio,28/07/2017 12:00
+morphology,Cystadenocarcinoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7978,,,Paula Carrio,28/07/2017 12:00
+morphology,Myelodysplastic syndrome,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3247,,,Paula Carrio,28/07/2017 12:00
